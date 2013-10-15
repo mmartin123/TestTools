@@ -1,0 +1,20 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<xs:schema id="ArrayOfMappedVariable" targetNamespace="http://hiscentral.cuahsi.org/20100205/" xmlns:mstns="http://hiscentral.cuahsi.org/20100205/" xmlns="http://hiscentral.cuahsi.org/20100205/" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata" attributeFormDefault="qualified" elementFormDefault="qualified">
+  <xs:element name="ArrayOfMappedVariable" msdata:IsDataSet="true" msdata:UseCurrentLocale="true">
+    <xs:complexType>
+      <xs:choice minOccurs="0" maxOccurs="unbounded">
+        <xs:element name="MappedVariable">
+          <xs:complexType>
+            <xs:sequence>
+              <xs:element name="variableName" type="xs:string" minOccurs="0" />
+              <xs:element name="variableCode" type="xs:string" minOccurs="0" />
+              <xs:element name="servCode" type="xs:string" minOccurs="0" />
+              <xs:element name="WSDL" type="xs:string" minOccurs="0" />
+              <xs:element name="conceptCode" type="xs:string" minOccurs="0" />
+            </xs:sequence>
+          </xs:complexType>
+        </xs:element>
+      </xs:choice>
+    </xs:complexType>
+  </xs:element>
+</xs:schema>

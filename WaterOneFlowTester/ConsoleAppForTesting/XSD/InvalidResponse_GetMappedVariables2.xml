@@ -1,0 +1,143 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ArrayOfMappedVariable xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <MappedVariable>
+    <xvariableName xmlns="http://hiscentral.cuahsi.org/20100205/">Ground-water level above NAVD 1988, feet</variableName>
+    <variableCode xmlns="http://hiscentral.cuahsi.org/20100205/">NWISDV:62611/DataType=Minimum</variableCode>
+    <servCode xmlns="http://hiscentral.cuahsi.org/20100205/">NWISDV</servCode>
+    <WSDL xmlns="http://hiscentral.cuahsi.org/20100205/">http://river.sdsc.edu/wateroneflow/NWIS/DailyValues.asmx?WSDL</WSDL>
+    <conceptCode xmlns="http://hiscentral.cuahsi.org/20100205/">19</conceptCode>
+  </MappedVariable>
+  <MappedVariable>
+    <variableName xmlns="http://hiscentral.cuahsi.org/20100205/">Elevation above NGVD 1929, feet</variableName>
+    <variableCode xmlns="http://hiscentral.cuahsi.org/20100205/">NWISDV:72020/statistic=00021</variableCode>
+    <servCode xmlns="http://hiscentral.cuahsi.org/20100205/">NWISDV</servCode>
+    <WSDL xmlns="http://hiscentral.cuahsi.org/20100205/">http://river.sdsc.edu/wateroneflow/NWIS/DailyValues.asmx?WSDL</WSDL>
+    <conceptCode xmlns="http://hiscentral.cuahsi.org/20100205/">19</conceptCode>
+  </MappedVariable>
+  <MappedVariable>
+    <variableName xmlns="http://hiscentral.cuahsi.org/20100205/">Elevation above NGVD 1929, feet</variableName>
+    <variableCode xmlns="http://hiscentral.cuahsi.org/20100205/">NWISDV:72020/statistic=00024</variableCode>
+    <servCode xmlns="http://hiscentral.cuahsi.org/20100205/">NWISDV</servCode>
+    <WSDL xmlns="http://hiscentral.cuahsi.org/20100205/">http://river.sdsc.edu/wateroneflow/NWIS/DailyValues.asmx?WSDL</WSDL>
+    <conceptCode xmlns="http://hiscentral.cuahsi.org/20100205/">19</conceptCode>
+  </MappedVariable>
+  <MappedVariable>
+    <variableName xmlns="http://hiscentral.cuahsi.org/20100205/">Depth to water level, feet below land surface</variableName>
+    <variableCode xmlns="http://hiscentral.cuahsi.org/20100205/">NWISDV:72019/DataType=Instantaneous</variableCode>
+    <servCode xmlns="http://hiscentral.cuahsi.org/20100205/">NWISDV</servCode>
+    <WSDL xmlns="http://hiscentral.cuahsi.org/20100205/">http://river.sdsc.edu/wateroneflow/NWIS/DailyValues.asmx?WSDL</WSDL>
+    <conceptCode xmlns="http://hiscentral.cuahsi.org/20100205/">19</conceptCode>
+  </MappedVariable>
+  <MappedVariable>
+    <variableName xmlns="http://hiscentral.cuahsi.org/20100205/">Depth to water level, feet below land surface</variableName>
+    <variableCode xmlns="http://hiscentral.cuahsi.org/20100205/">NWISDV:72019/statistic=31500</variableCode>
+    <servCode xmlns="http://hiscentral.cuahsi.org/20100205/">NWISDV</servCode>
+    <WSDL xmlns="http://hiscentral.cuahsi.org/20100205/">http://river.sdsc.edu/wateroneflow/NWIS/DailyValues.asmx?WSDL</WSDL>
+    <conceptCode xmlns="http://hiscentral.cuahsi.org/20100205/">19</conceptCode>
+  </MappedVariable>
+  <MappedVariable>
+    <variableName xmlns="http://hiscentral.cuahsi.org/20100205/">Depth to water level, feet below land surface</variableName>
+    <variableCode xmlns="http://hiscentral.cuahsi.org/20100205/">NWISDV:72019/statistic=30200</variableCode>
+    <servCode xmlns="http://hiscentral.cuahsi.org/20100205/">NWISDV</servCode>
+    <WSDL xmlns="http://hiscentral.cuahsi.org/20100205/">http://river.sdsc.edu/wateroneflow/NWIS/DailyValues.asmx?WSDL</WSDL>
+    <conceptCode xmlns="http://hiscentral.cuahsi.org/20100205/">19</conceptCode>
+  </MappedVariable>
+  <MappedVariable>
+    <variableName xmlns="http://hiscentral.cuahsi.org/20100205/">Elevation above NGVD 1929, feet</variableName>
+    <variableCode xmlns="http://hiscentral.cuahsi.org/20100205/">NWISDV:72020/statistic=30600</variableCode>
+    <servCode xmlns="http://hiscentral.cuahsi.org/20100205/">NWISDV</servCode>
+    <WSDL xmlns="http://hiscentral.cuahsi.org/20100205/">http://river.sdsc.edu/wateroneflow/NWIS/DailyValues.asmx?WSDL</WSDL>
+    <conceptCode xmlns="http://hiscentral.cuahsi.org/20100205/">19</conceptCode>
+  </MappedVariable>
+  <MappedVariable>
+    <variableName xmlns="http://hiscentral.cuahsi.org/20100205/">Elevation above NGVD 1929, feet</variableName>
+    <variableCode xmlns="http://hiscentral.cuahsi.org/20100205/">NWISDV:72020/DataType=Instantaneous</variableCode>
+    <servCode xmlns="http://hiscentral.cuahsi.org/20100205/">NWISDV</servCode>
+    <WSDL xmlns="http://hiscentral.cuahsi.org/20100205/">http://river.sdsc.edu/wateroneflow/NWIS/DailyValues.asmx?WSDL</WSDL>
+    <conceptCode xmlns="http://hiscentral.cuahsi.org/20100205/">19</conceptCode>
+  </MappedVariable>
+  <MappedVariable>
+    <variableName xmlns="http://hiscentral.cuahsi.org/20100205/">Depth to water level, feet below land surface</variableName>
+    <variableCode xmlns="http://hiscentral.cuahsi.org/20100205/">NWISDV:72019/DataType=Average</variableCode>
+    <servCode xmlns="http://hiscentral.cuahsi.org/20100205/">NWISDV</servCode>
+    <WSDL xmlns="http://hiscentral.cuahsi.org/20100205/">http://river.sdsc.edu/wateroneflow/NWIS/DailyValues.asmx?WSDL</WSDL>
+    <conceptCode xmlns="http://hiscentral.cuahsi.org/20100205/">19</conceptCode>
+  </MappedVariable>
+  <MappedVariable>
+    <variableName xmlns="http://hiscentral.cuahsi.org/20100205/">Depth to water level, feet below land surface</variableName>
+    <variableCode xmlns="http://hiscentral.cuahsi.org/20100205/">NWISDV:72019/DataType=Maximum</variableCode>
+    <servCode xmlns="http://hiscentral.cuahsi.org/20100205/">NWISDV</servCode>
+    <WSDL xmlns="http://hiscentral.cuahsi.org/20100205/">http://river.sdsc.edu/wateroneflow/NWIS/DailyValues.asmx?WSDL</WSDL>
+    <conceptCode xmlns="http://hiscentral.cuahsi.org/20100205/">19</conceptCode>
+  </MappedVariable>
+  <MappedVariable>
+    <variableName xmlns="http://hiscentral.cuahsi.org/20100205/">Depth to water level, feet below land surface</variableName>
+    <variableCode xmlns="http://hiscentral.cuahsi.org/20100205/">NWISDV:72019/DataType=Minimum</variableCode>
+    <servCode xmlns="http://hiscentral.cuahsi.org/20100205/">NWISDV</servCode>
+    <WSDL xmlns="http://hiscentral.cuahsi.org/20100205/">http://river.sdsc.edu/wateroneflow/NWIS/DailyValues.asmx?WSDL</WSDL>
+    <conceptCode xmlns="http://hiscentral.cuahsi.org/20100205/">19</conceptCode>
+  </MappedVariable>
+  <MappedVariable>
+    <variableName xmlns="http://hiscentral.cuahsi.org/20100205/">Elevation above NGVD 1929, feet</variableName>
+    <variableCode xmlns="http://hiscentral.cuahsi.org/20100205/">NWISDV:72020/DataType=Average</variableCode>
+    <servCode xmlns="http://hiscentral.cuahsi.org/20100205/">NWISDV</servCode>
+    <WSDL xmlns="http://hiscentral.cuahsi.org/20100205/">http://river.sdsc.edu/wateroneflow/NWIS/DailyValues.asmx?WSDL</WSDL>
+    <conceptCode xmlns="http://hiscentral.cuahsi.org/20100205/">19</conceptCode>
+  </MappedVariable>
+  <MappedVariable>
+    <variableName xmlns="http://hiscentral.cuahsi.org/20100205/">Elevation above NGVD 1929, feet</variableName>
+    <variableCode xmlns="http://hiscentral.cuahsi.org/20100205/">NWISDV:72020/DataType=Maximum</variableCode>
+    <servCode xmlns="http://hiscentral.cuahsi.org/20100205/">NWISDV</servCode>
+    <WSDL xmlns="http://hiscentral.cuahsi.org/20100205/">http://river.sdsc.edu/wateroneflow/NWIS/DailyValues.asmx?WSDL</WSDL>
+    <conceptCode xmlns="http://hiscentral.cuahsi.org/20100205/">19</conceptCode>
+  </MappedVariable>
+  <MappedVariable>
+    <variableName xmlns="http://hiscentral.cuahsi.org/20100205/">Elevation above NGVD 1929, feet</variableName>
+    <variableCode xmlns="http://hiscentral.cuahsi.org/20100205/">NWISDV:72020/DataType=Minimum</variableCode>
+    <servCode xmlns="http://hiscentral.cuahsi.org/20100205/">NWISDV</servCode>
+    <WSDL xmlns="http://hiscentral.cuahsi.org/20100205/">http://river.sdsc.edu/wateroneflow/NWIS/DailyValues.asmx?WSDL</WSDL>
+    <conceptCode xmlns="http://hiscentral.cuahsi.org/20100205/">19</conceptCode>
+  </MappedVariable>
+  <MappedVariable>
+    <variableName xmlns="http://hiscentral.cuahsi.org/20100205/">Elevation above NGVD 1929, feet</variableName>
+    <variableCode xmlns="http://hiscentral.cuahsi.org/20100205/">NWISDV:72020/statistic=32400</variableCode>
+    <servCode xmlns="http://hiscentral.cuahsi.org/20100205/">NWISDV</servCode>
+    <WSDL xmlns="http://hiscentral.cuahsi.org/20100205/">http://river.sdsc.edu/wateroneflow/NWIS/DailyValues.asmx?WSDL</WSDL>
+    <conceptCode xmlns="http://hiscentral.cuahsi.org/20100205/">19</conceptCode>
+  </MappedVariable>
+  <MappedVariable>
+    <variableName xmlns="http://hiscentral.cuahsi.org/20100205/">Depth to water level, feet below land surface</variableName>
+    <variableCode xmlns="http://hiscentral.cuahsi.org/20100205/">NWISDV:72019/statistic=31200</variableCode>
+    <servCode xmlns="http://hiscentral.cuahsi.org/20100205/">NWISDV</servCode>
+    <WSDL xmlns="http://hiscentral.cuahsi.org/20100205/">http://river.sdsc.edu/wateroneflow/NWIS/DailyValues.asmx?WSDL</WSDL>
+    <conceptCode xmlns="http://hiscentral.cuahsi.org/20100205/">19</conceptCode>
+  </MappedVariable>
+  <MappedVariable>
+    <variableName xmlns="http://hiscentral.cuahsi.org/20100205/">Elevation above NGVD 1929, feet</variableName>
+    <variableCode xmlns="http://hiscentral.cuahsi.org/20100205/">NWISDV:72020/statistic=31200</variableCode>
+    <servCode xmlns="http://hiscentral.cuahsi.org/20100205/">NWISDV</servCode>
+    <WSDL xmlns="http://hiscentral.cuahsi.org/20100205/">http://river.sdsc.edu/wateroneflow/NWIS/DailyValues.asmx?WSDL</WSDL>
+    <conceptCode xmlns="http://hiscentral.cuahsi.org/20100205/">19</conceptCode>
+  </MappedVariable>
+  <MappedVariable>
+    <variableName xmlns="http://hiscentral.cuahsi.org/20100205/">Elevation above NGVD 1929, feet</variableName>
+    <variableCode xmlns="http://hiscentral.cuahsi.org/20100205/">NWISDV:72020/statistic=32359</variableCode>
+    <servCode xmlns="http://hiscentral.cuahsi.org/20100205/">NWISDV</servCode>
+    <WSDL xmlns="http://hiscentral.cuahsi.org/20100205/">http://river.sdsc.edu/wateroneflow/NWIS/DailyValues.asmx?WSDL</WSDL>
+    <conceptCode xmlns="http://hiscentral.cuahsi.org/20100205/">19</conceptCode>
+  </MappedVariable>
+  <MappedVariable>
+    <variableName xmlns="http://hiscentral.cuahsi.org/20100205/">Ground-water level above NAVD 1988, feet</variableName>
+    <variableCode xmlns="http://hiscentral.cuahsi.org/20100205/">NWISDV:62611/DataType=Average</variableCode>
+    <servCode xmlns="http://hiscentral.cuahsi.org/20100205/">NWISDV</servCode>
+    <WSDL xmlns="http://hiscentral.cuahsi.org/20100205/">http://river.sdsc.edu/wateroneflow/NWIS/DailyValues.asmx?WSDL</WSDL>
+    <conceptCode xmlns="http://hiscentral.cuahsi.org/20100205/">19</conceptCode>
+  </MappedVariable>
+  <MappedVariable>
+    <variableName xmlns="http://hiscentral.cuahsi.org/20100205/">Ground-water level above NAVD 1988, feet</variableName>
+    <variableCode xmlns="http://hiscentral.cuahsi.org/20100205/">NWISDV:62611/DataType=Maximum</variableCode>
+    <servCode xmlns="http://hiscentral.cuahsi.org/20100205/">NWISDV</servCode>
+    <WSDL xmlns="http://hiscentral.cuahsi.org/20100205/">http://river.sdsc.edu/wateroneflow/NWIS/DailyValues.asmx?WSDL</WSDL>
+    <conceptCode xmlns="http://hiscentral.cuahsi.org/20100205/">19</conceptCode>
+  </MappedVariable>
+</ArrayOfMappedVariable>
