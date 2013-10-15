@@ -1,0 +1,456 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<sitesResponse xmlns="http://www.cuahsi.org/waterML/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+   <queryInfo>
+      <creationTime>2013-07-30T02:22:06+00:00</creationTime>
+      <criteria MethodCalled="GetSiteInfo">
+         <parameter name="site" value="OGIMET-PERU:846231-99999-SPJJ" />
+      </criteria>
+   </queryInfo>
+   <site>
+      <siteInfo>
+         <siteName>JAUJA (PERU)</siteName>
+         <siteCode network="OGIMET-PERU">846231-99999-SPJJ</siteCode>
+         <geoLocation>
+            <geogLocation xsi:type="LatLonPointType">
+               <latitude>-11.7827777777778</latitude>
+               <longitude>-75.4827777777778</longitude>
+            </geogLocation>
+         </geoLocation>
+         <elevation_m>3448</elevation_m>
+      </siteInfo>
+      <seriesCatalog>
+         <series>
+            <variable>
+               <variableCode vocabulary="OGIMET-PERU" default="true" variableID="2">Temp-(mean)</variableCode>
+               <variableName>Temperature</variableName>
+               <valueType>Derived Value</valueType>
+               <dataType>Average</dataType>
+               <generalCategory>Climate</generalCategory>
+               <sampleMedium>Air</sampleMedium>
+               <unit>
+                  <unitName>degree</unitName>
+                  <unitType>Angle</unitType>
+                  <unitAbbreviation>deg</unitAbbreviation>
+                  <unitCode>2</unitCode>
+               </unit>
+               <noDataValue>-9999</noDataValue>
+               <timeScale isRegular="false">
+                  <unit>
+                     <unitName>day</unitName>
+                     <unitType>Time</unitType>
+                     <unitAbbreviation>d</unitAbbreviation>
+                     <unitCode>104</unitCode>
+                  </unit>
+                  <timeSupport>1</timeSupport>
+               </timeScale>
+               <speciation>Not Applicable</speciation>
+            </variable>
+            <valueCount>11</valueCount>
+            <variableTimeInterval xsi:type="TimeIntervalType">
+               <beginDateTime>2001-12-14T00:00:00</beginDateTime>
+               <endDateTime>2009-12-13T00:00:00</endDateTime>
+               <beginDateTimeUTC>2001-12-14T00:00:00</beginDateTimeUTC>
+               <endDateTimeUTC>2009-12-13T00:00:00</endDateTimeUTC>
+            </variableTimeInterval>
+            <method methodID="1">
+               <methodCode>1</methodCode>
+               <methodDescription>Data downloaded from Ogimet using custom script</methodDescription>
+               <methodLink />
+            </method>
+            <source sourceID="1">
+               <organization>Ogimet</organization>
+               <sourceDescription />
+               <citation />
+            </source>
+            <qualityControlLevel qualityControlLevelID="0">
+               <qualityControlLevelCode>0</qualityControlLevelCode>
+               <definition>Raw data</definition>
+            </qualityControlLevel>
+         </series>
+         <series>
+            <variable>
+               <variableCode vocabulary="OGIMET-PERU" default="true" variableID="3">Temp-(max)</variableCode>
+               <variableName>Temperature</variableName>
+               <valueType>Derived Value</valueType>
+               <dataType>Maximum</dataType>
+               <generalCategory>Climate</generalCategory>
+               <sampleMedium>Air</sampleMedium>
+               <unit>
+                  <unitName>degree</unitName>
+                  <unitType>Angle</unitType>
+                  <unitAbbreviation>deg</unitAbbreviation>
+                  <unitCode>2</unitCode>
+               </unit>
+               <noDataValue>-9999</noDataValue>
+               <timeScale isRegular="false">
+                  <unit>
+                     <unitName>day</unitName>
+                     <unitType>Time</unitType>
+                     <unitAbbreviation>d</unitAbbreviation>
+                     <unitCode>104</unitCode>
+                  </unit>
+                  <timeSupport>1</timeSupport>
+               </timeScale>
+               <speciation>Not Applicable</speciation>
+            </variable>
+            <valueCount>11</valueCount>
+            <variableTimeInterval xsi:type="TimeIntervalType">
+               <beginDateTime>2001-12-14T00:00:00</beginDateTime>
+               <endDateTime>2009-12-13T00:00:00</endDateTime>
+               <beginDateTimeUTC>2001-12-14T00:00:00</beginDateTimeUTC>
+               <endDateTimeUTC>2009-12-13T00:00:00</endDateTimeUTC>
+            </variableTimeInterval>
+            <method methodID="1">
+               <methodCode>1</methodCode>
+               <methodDescription>Data downloaded from Ogimet using custom script</methodDescription>
+               <methodLink />
+            </method>
+            <source sourceID="1">
+               <organization>Ogimet</organization>
+               <sourceDescription />
+               <citation />
+            </source>
+            <qualityControlLevel qualityControlLevelID="0">
+               <qualityControlLevelCode>0</qualityControlLevelCode>
+               <definition>Raw data</definition>
+            </qualityControlLevel>
+         </series>
+         <series>
+            <variable>
+               <variableCode vocabulary="OGIMET-PERU" default="true" variableID="6">Hr-(med)</variableCode>
+               <variableName>Relative humidity</variableName>
+               <valueType>Derived Value</valueType>
+               <dataType>Median</dataType>
+               <generalCategory>Climate</generalCategory>
+               <sampleMedium>Air</sampleMedium>
+               <unit>
+                  <unitName>percent</unitName>
+                  <unitType>Dimensionless</unitType>
+                  <unitAbbreviation>%</unitAbbreviation>
+                  <unitCode>1</unitCode>
+               </unit>
+               <noDataValue>-9999</noDataValue>
+               <timeScale isRegular="false">
+                  <unit>
+                     <unitName>day</unitName>
+                     <unitType>Time</unitType>
+                     <unitAbbreviation>d</unitAbbreviation>
+                     <unitCode>104</unitCode>
+                  </unit>
+                  <timeSupport>1</timeSupport>
+               </timeScale>
+               <speciation>Not Applicable</speciation>
+            </variable>
+            <valueCount>11</valueCount>
+            <variableTimeInterval xsi:type="TimeIntervalType">
+               <beginDateTime>2001-12-14T00:00:00</beginDateTime>
+               <endDateTime>2009-12-13T00:00:00</endDateTime>
+               <beginDateTimeUTC>2001-12-14T00:00:00</beginDateTimeUTC>
+               <endDateTimeUTC>2009-12-13T00:00:00</endDateTimeUTC>
+            </variableTimeInterval>
+            <method methodID="1">
+               <methodCode>1</methodCode>
+               <methodDescription>Data downloaded from Ogimet using custom script</methodDescription>
+               <methodLink />
+            </method>
+            <source sourceID="1">
+               <organization>Ogimet</organization>
+               <sourceDescription />
+               <citation />
+            </source>
+            <qualityControlLevel qualityControlLevelID="0">
+               <qualityControlLevelCode>0</qualityControlLevelCode>
+               <definition>Raw data</definition>
+            </qualityControlLevel>
+         </series>
+         <series>
+            <variable>
+               <variableCode vocabulary="OGIMET-PERU" default="true" variableID="8">Wind-(max)</variableCode>
+               <variableName>Wind speed</variableName>
+               <valueType>Derived Value</valueType>
+               <dataType>Maximum</dataType>
+               <generalCategory>Climate</generalCategory>
+               <sampleMedium>Air</sampleMedium>
+               <unit>
+                  <unitName>kilometers per hour</unitName>
+                  <unitType>Velocity</unitType>
+                  <unitAbbreviation>km/h</unitAbbreviation>
+                  <unitCode>116</unitCode>
+               </unit>
+               <noDataValue>-9999</noDataValue>
+               <timeScale isRegular="false">
+                  <unit>
+                     <unitName>day</unitName>
+                     <unitType>Time</unitType>
+                     <unitAbbreviation>d</unitAbbreviation>
+                     <unitCode>104</unitCode>
+                  </unit>
+                  <timeSupport>1</timeSupport>
+               </timeScale>
+               <speciation>Not Applicable</speciation>
+            </variable>
+            <valueCount>11</valueCount>
+            <variableTimeInterval xsi:type="TimeIntervalType">
+               <beginDateTime>2001-12-14T00:00:00</beginDateTime>
+               <endDateTime>2009-12-13T00:00:00</endDateTime>
+               <beginDateTimeUTC>2001-12-14T00:00:00</beginDateTimeUTC>
+               <endDateTimeUTC>2009-12-13T00:00:00</endDateTimeUTC>
+            </variableTimeInterval>
+            <method methodID="1">
+               <methodCode>1</methodCode>
+               <methodDescription>Data downloaded from Ogimet using custom script</methodDescription>
+               <methodLink />
+            </method>
+            <source sourceID="1">
+               <organization>Ogimet</organization>
+               <sourceDescription />
+               <citation />
+            </source>
+            <qualityControlLevel qualityControlLevelID="0">
+               <qualityControlLevelCode>0</qualityControlLevelCode>
+               <definition>Raw data</definition>
+            </qualityControlLevel>
+         </series>
+         <series>
+            <variable>
+               <variableCode vocabulary="OGIMET-PERU" default="true" variableID="1">Vis-(km)</variableCode>
+               <variableName>Visibility</variableName>
+               <valueType>Derived Value</valueType>
+               <dataType>Average</dataType>
+               <generalCategory>Climate</generalCategory>
+               <sampleMedium>Air</sampleMedium>
+               <unit>
+                  <unitName>kilometer</unitName>
+                  <unitType>Length</unitType>
+                  <unitAbbreviation>km</unitAbbreviation>
+                  <unitCode>51</unitCode>
+               </unit>
+               <noDataValue>-9999</noDataValue>
+               <timeScale isRegular="false">
+                  <unit>
+                     <unitName>day</unitName>
+                     <unitType>Time</unitType>
+                     <unitAbbreviation>d</unitAbbreviation>
+                     <unitCode>104</unitCode>
+                  </unit>
+                  <timeSupport>1</timeSupport>
+               </timeScale>
+               <speciation>Not Applicable</speciation>
+            </variable>
+            <valueCount>11</valueCount>
+            <variableTimeInterval xsi:type="TimeIntervalType">
+               <beginDateTime>2001-12-14T00:00:00</beginDateTime>
+               <endDateTime>2009-12-13T00:00:00</endDateTime>
+               <beginDateTimeUTC>2001-12-14T00:00:00</beginDateTimeUTC>
+               <endDateTimeUTC>2009-12-13T00:00:00</endDateTimeUTC>
+            </variableTimeInterval>
+            <method methodID="1">
+               <methodCode>1</methodCode>
+               <methodDescription>Data downloaded from Ogimet using custom script</methodDescription>
+               <methodLink />
+            </method>
+            <source sourceID="1">
+               <organization>Ogimet</organization>
+               <sourceDescription />
+               <citation />
+            </source>
+            <qualityControlLevel qualityControlLevelID="0">
+               <qualityControlLevelCode>0</qualityControlLevelCode>
+               <definition>Raw data</definition>
+            </qualityControlLevel>
+         </series>
+         <series>
+            <variable>
+               <variableCode vocabulary="OGIMET-PERU" default="true" variableID="4">Prec-(mm)</variableCode>
+               <variableName>Precipitation</variableName>
+               <valueType>Derived Value</valueType>
+               <dataType>Incremental</dataType>
+               <generalCategory>Climate</generalCategory>
+               <sampleMedium>Air</sampleMedium>
+               <unit>
+                  <unitName>millimeter</unitName>
+                  <unitType>Length</unitType>
+                  <unitAbbreviation>mm</unitAbbreviation>
+                  <unitCode>54</unitCode>
+               </unit>
+               <noDataValue>-9999</noDataValue>
+               <timeScale isRegular="false">
+                  <unit>
+                     <unitName>day</unitName>
+                     <unitType>Time</unitType>
+                     <unitAbbreviation>d</unitAbbreviation>
+                     <unitCode>104</unitCode>
+                  </unit>
+                  <timeSupport>1</timeSupport>
+               </timeScale>
+               <speciation>Not Applicable</speciation>
+            </variable>
+            <valueCount>11</valueCount>
+            <variableTimeInterval xsi:type="TimeIntervalType">
+               <beginDateTime>2001-12-14T00:00:00</beginDateTime>
+               <endDateTime>2009-12-13T00:00:00</endDateTime>
+               <beginDateTimeUTC>2001-12-14T00:00:00</beginDateTimeUTC>
+               <endDateTimeUTC>2009-12-13T00:00:00</endDateTimeUTC>
+            </variableTimeInterval>
+            <method methodID="1">
+               <methodCode>1</methodCode>
+               <methodDescription>Data downloaded from Ogimet using custom script</methodDescription>
+               <methodLink />
+            </method>
+            <source sourceID="1">
+               <organization>Ogimet</organization>
+               <sourceDescription />
+               <citation />
+            </source>
+            <qualityControlLevel qualityControlLevelID="0">
+               <qualityControlLevelCode>0</qualityControlLevelCode>
+               <definition>Raw data</definition>
+            </qualityControlLevel>
+         </series>
+         <series>
+            <variable>
+               <variableCode vocabulary="OGIMET-PERU" default="true" variableID="7">Temp-(min)</variableCode>
+               <variableName>Temperature</variableName>
+               <valueType>Derived Value</valueType>
+               <dataType>Minimum</dataType>
+               <generalCategory>Climate</generalCategory>
+               <sampleMedium>Air</sampleMedium>
+               <unit>
+                  <unitName>degree</unitName>
+                  <unitType>Angle</unitType>
+                  <unitAbbreviation>deg</unitAbbreviation>
+                  <unitCode>2</unitCode>
+               </unit>
+               <noDataValue>-9999</noDataValue>
+               <timeScale isRegular="false">
+                  <unit>
+                     <unitName>day</unitName>
+                     <unitType>Time</unitType>
+                     <unitAbbreviation>d</unitAbbreviation>
+                     <unitCode>104</unitCode>
+                  </unit>
+                  <timeSupport>1</timeSupport>
+               </timeScale>
+               <speciation>Not Applicable</speciation>
+            </variable>
+            <valueCount>11</valueCount>
+            <variableTimeInterval xsi:type="TimeIntervalType">
+               <beginDateTime>2001-12-14T00:00:00</beginDateTime>
+               <endDateTime>2009-12-13T00:00:00</endDateTime>
+               <beginDateTimeUTC>2001-12-14T00:00:00</beginDateTimeUTC>
+               <endDateTimeUTC>2009-12-13T00:00:00</endDateTimeUTC>
+            </variableTimeInterval>
+            <method methodID="1">
+               <methodCode>1</methodCode>
+               <methodDescription>Data downloaded from Ogimet using custom script</methodDescription>
+               <methodLink />
+            </method>
+            <source sourceID="1">
+               <organization>Ogimet</organization>
+               <sourceDescription />
+               <citation />
+            </source>
+            <qualityControlLevel qualityControlLevelID="0">
+               <qualityControlLevelCode>0</qualityControlLevelCode>
+               <definition>Raw data</definition>
+            </qualityControlLevel>
+         </series>
+         <series>
+            <variable>
+               <variableCode vocabulary="OGIMET-PERU" default="true" variableID="9">Wind-(mean)</variableCode>
+               <variableName>Wind speed</variableName>
+               <valueType>Derived Value</valueType>
+               <dataType>Average</dataType>
+               <generalCategory>Climate</generalCategory>
+               <sampleMedium>Air</sampleMedium>
+               <unit>
+                  <unitName>kilometers per hour</unitName>
+                  <unitType>Velocity</unitType>
+                  <unitAbbreviation>km/h</unitAbbreviation>
+                  <unitCode>116</unitCode>
+               </unit>
+               <noDataValue>-9999</noDataValue>
+               <timeScale isRegular="false">
+                  <unit>
+                     <unitName>day</unitName>
+                     <unitType>Time</unitType>
+                     <unitAbbreviation>d</unitAbbreviation>
+                     <unitCode>104</unitCode>
+                  </unit>
+                  <timeSupport>1</timeSupport>
+               </timeScale>
+               <speciation>Not Applicable</speciation>
+            </variable>
+            <valueCount>11</valueCount>
+            <variableTimeInterval xsi:type="TimeIntervalType">
+               <beginDateTime>2001-12-14T00:00:00</beginDateTime>
+               <endDateTime>2009-12-13T00:00:00</endDateTime>
+               <beginDateTimeUTC>2001-12-14T00:00:00</beginDateTimeUTC>
+               <endDateTimeUTC>2009-12-13T00:00:00</endDateTimeUTC>
+            </variableTimeInterval>
+            <method methodID="1">
+               <methodCode>1</methodCode>
+               <methodDescription>Data downloaded from Ogimet using custom script</methodDescription>
+               <methodLink />
+            </method>
+            <source sourceID="1">
+               <organization>Ogimet</organization>
+               <sourceDescription />
+               <citation />
+            </source>
+            <qualityControlLevel qualityControlLevelID="0">
+               <qualityControlLevelCode>0</qualityControlLevelCode>
+               <definition>Raw data</definition>
+            </qualityControlLevel>
+         </series>
+         <series>
+            <variable>
+               <variableCode vocabulary="OGIMET-PERU" default="true" variableID="5">Wind-(gust)</variableCode>
+               <variableName>Wind gust speed</variableName>
+               <valueType>Derived Value</valueType>
+               <dataType>Maximum</dataType>
+               <generalCategory>Climate</generalCategory>
+               <sampleMedium>Air</sampleMedium>
+               <unit>
+                  <unitName>kilometers per hour</unitName>
+                  <unitType>Velocity</unitType>
+                  <unitAbbreviation>km/h</unitAbbreviation>
+                  <unitCode>116</unitCode>
+               </unit>
+               <noDataValue>-9999</noDataValue>
+               <timeScale isRegular="false">
+                  <unit>
+                     <unitName>day</unitName>
+                     <unitType>Time</unitType>
+                     <unitAbbreviation>d</unitAbbreviation>
+                     <unitCode>104</unitCode>
+                  </unit>
+                  <timeSupport>1</timeSupport>
+               </timeScale>
+               <speciation>Not Applicable</speciation>
+            </variable>
+            <valueCount>11</valueCount>
+            <variableTimeInterval xsi:type="TimeIntervalType">
+               <beginDateTime>2001-12-14T00:00:00</beginDateTime>
+               <endDateTime>2009-12-13T00:00:00</endDateTime>
+               <beginDateTimeUTC>2001-12-14T00:00:00</beginDateTimeUTC>
+               <endDateTimeUTC>2009-12-13T00:00:00</endDateTimeUTC>
+            </variableTimeInterval>
+            <method methodID="1">
+               <methodCode>1</methodCode>
+               <methodDescription>Data downloaded from Ogimet using custom script</methodDescription>
+               <methodLink />
+            </method>
+            <source sourceID="1">
+               <organization>Ogimet</organization>
+               <sourceDescription />
+               <citation />
+            </source>
+            <qualityControlLevel qualityControlLevelID="0">
+               <qualityControlLevelCode>0</qualityControlLevelCode>
+               <definition>Raw data</definition>
+            </qualityControlLevel>
+         </series>
+      </seriesCatalog>
+   </site>
+</sitesResponse>

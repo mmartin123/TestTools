@@ -1,0 +1,262 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<variablesResponse>
+   <queryInfo>
+      <creationTime>2013-07-30T02:21:33+00:00</creationTime>
+      <criteria MethodCalled="GetVariableInfo">
+         <variableParam>OGIMET-PERU:</variableParam>
+         <parameter name="variable" value="OGIMET-PERU:" />
+      </criteria>
+   </queryInfo>
+   <variables>
+      <variable>
+         <variableCode vocabulary="OGIMET-PERU" default="true" variableID="1">Vis-(km)</variableCode>
+         <variableName>Visibility</variableName>
+         <valueType>Derived Value</valueType>
+         <dataType>Average</dataType>
+         <generalCategory>Climate</generalCategory>
+         <sampleMedium>Air</sampleMedium>
+         <unit>
+            <unitName>kilometer</unitName>
+            <unitType>Length</unitType>
+            <unitAbbreviation>km</unitAbbreviation>
+            <unitCode>51</unitCode>
+         </unit>
+         <noDataValue>-9999</noDataValue>
+         <timeScale isRegular="false">
+            <unit>
+               <unitName>day</unitName>
+               <unitType>Time</unitType>
+               <unitAbbreviation>d</unitAbbreviation>
+               <unitCode>104</unitCode>
+            </unit>
+            <timeSupport>1</timeSupport>
+         </timeScale>
+         <speciation>Not Applicable</speciation>
+      </variable>
+      <variable>
+         <variableCode vocabulary="OGIMET-PERU" default="true" variableID="2">Temp-(mean)</variableCode>
+         <variableName>Temperature</variableName>
+         <valueType>Derived Value</valueType>
+         <dataType>Average</dataType>
+         <generalCategory>Climate</generalCategory>
+         <sampleMedium>Air</sampleMedium>
+         <unit>
+            <unitName>degree</unitName>
+            <unitType>Angle</unitType>
+            <unitAbbreviation>deg</unitAbbreviation>
+            <unitCode>2</unitCode>
+         </unit>
+         <noDataValue>-9999</noDataValue>
+         <timeScale isRegular="false">
+            <unit>
+               <unitName>day</unitName>
+               <unitType>Time</unitType>
+               <unitAbbreviation>d</unitAbbreviation>
+               <unitCode>104</unitCode>
+            </unit>
+            <timeSupport>1</timeSupport>
+         </timeScale>
+         <speciation>Not Applicable</speciation>
+      </variable>
+      <variable>
+         <variableCode vocabulary="OGIMET-PERU" default="true" variableID="3">Temp-(max)</variableCode>
+         <variableName>Temperature</variableName>
+         <valueType>Derived Value</valueType>
+         <dataType>Maximum</dataType>
+         <generalCategory>Climate</generalCategory>
+         <sampleMedium>Air</sampleMedium>
+         <unit>
+            <unitName>degree</unitName>
+            <unitType>Angle</unitType>
+            <unitAbbreviation>deg</unitAbbreviation>
+            <unitCode>2</unitCode>
+         </unit>
+         <noDataValue>-9999</noDataValue>
+         <timeScale isRegular="false">
+            <unit>
+               <unitName>day</unitName>
+               <unitType>Time</unitType>
+               <unitAbbreviation>d</unitAbbreviation>
+               <unitCode>104</unitCode>
+            </unit>
+            <timeSupport>1</timeSupport>
+         </timeScale>
+         <speciation>Not Applicable</speciation>
+      </variable>
+      <variable>
+         <variableCode vocabulary="OGIMET-PERU" default="true" variableID="4">Prec-(mm)</variableCode>
+         <variableName>Precipitation</variableName>
+         <valueType>Derived Value</valueType>
+         <dataType>Incremental</dataType>
+         <generalCategory>Climate</generalCategory>
+         <sampleMedium>Air</sampleMedium>
+         <unit>
+            <unitName>millimeter</unitName>
+            <unitType>Length</unitType>
+            <unitAbbreviation>mm</unitAbbreviation>
+            <unitCode>54</unitCode>
+         </unit>
+         <noDataValue>-9999</noDataValue>
+         <timeScale isRegular="false">
+            <unit>
+               <unitName>day</unitName>
+               <unitType>Time</unitType>
+               <unitAbbreviation>d</unitAbbreviation>
+               <unitCode>104</unitCode>
+            </unit>
+            <timeSupport>1</timeSupport>
+         </timeScale>
+         <speciation>Not Applicable</speciation>
+      </variable>
+      <variable>
+         <variableCode vocabulary="OGIMET-PERU" default="true" variableID="5">Wind-(gust)</variableCode>
+         <variableName>Wind gust speed</variableName>
+         <valueType>Derived Value</valueType>
+         <dataType>Maximum</dataType>
+         <generalCategory>Climate</generalCategory>
+         <sampleMedium>Air</sampleMedium>
+         <unit>
+            <unitName>kilometers per hour</unitName>
+            <unitType>Velocity</unitType>
+            <unitAbbreviation>km/h</unitAbbreviation>
+            <unitCode>116</unitCode>
+         </unit>
+         <noDataValue>-9999</noDataValue>
+         <timeScale isRegular="false">
+            <unit>
+               <unitName>day</unitName>
+               <unitType>Time</unitType>
+               <unitAbbreviation>d</unitAbbreviation>
+               <unitCode>104</unitCode>
+            </unit>
+            <timeSupport>1</timeSupport>
+         </timeScale>
+         <speciation>Not Applicable</speciation>
+      </variable>
+      <variable>
+         <variableCode vocabulary="OGIMET-PERU" default="true" variableID="6">Hr-(med)</variableCode>
+         <variableName>Relative humidity</variableName>
+         <valueType>Derived Value</valueType>
+         <dataType>Median</dataType>
+         <generalCategory>Climate</generalCategory>
+         <sampleMedium>Air</sampleMedium>
+         <unit>
+            <unitName>percent</unitName>
+            <unitType>Dimensionless</unitType>
+            <unitAbbreviation>%</unitAbbreviation>
+            <unitCode>1</unitCode>
+         </unit>
+         <noDataValue>-9999</noDataValue>
+         <timeScale isRegular="false">
+            <unit>
+               <unitName>day</unitName>
+               <unitType>Time</unitType>
+               <unitAbbreviation>d</unitAbbreviation>
+               <unitCode>104</unitCode>
+            </unit>
+            <timeSupport>1</timeSupport>
+         </timeScale>
+         <speciation>Not Applicable</speciation>
+      </variable>
+      <variable>
+         <variableCode vocabulary="OGIMET-PERU" default="true" variableID="7">Temp-(min)</variableCode>
+         <variableName>Temperature</variableName>
+         <valueType>Derived Value</valueType>
+         <dataType>Minimum</dataType>
+         <generalCategory>Climate</generalCategory>
+         <sampleMedium>Air</sampleMedium>
+         <unit>
+            <unitName>degree</unitName>
+            <unitType>Angle</unitType>
+            <unitAbbreviation>deg</unitAbbreviation>
+            <unitCode>2</unitCode>
+         </unit>
+         <noDataValue>-9999</noDataValue>
+         <timeScale isRegular="false">
+            <unit>
+               <unitName>day</unitName>
+               <unitType>Time</unitType>
+               <unitAbbreviation>d</unitAbbreviation>
+               <unitCode>104</unitCode>
+            </unit>
+            <timeSupport>1</timeSupport>
+         </timeScale>
+         <speciation>Not Applicable</speciation>
+      </variable>
+      <variable>
+         <variableCode vocabulary="OGIMET-PERU" default="true" variableID="8">Wind-(max)</variableCode>
+         <variableName>Wind speed</variableName>
+         <valueType>Derived Value</valueType>
+         <dataType>Maximum</dataType>
+         <generalCategory>Climate</generalCategory>
+         <sampleMedium>Air</sampleMedium>
+         <unit>
+            <unitName>kilometers per hour</unitName>
+            <unitType>Velocity</unitType>
+            <unitAbbreviation>km/h</unitAbbreviation>
+            <unitCode>116</unitCode>
+         </unit>
+         <noDataValue>-9999</noDataValue>
+         <timeScale isRegular="false">
+            <unit>
+               <unitName>day</unitName>
+               <unitType>Time</unitType>
+               <unitAbbreviation>d</unitAbbreviation>
+               <unitCode>104</unitCode>
+            </unit>
+            <timeSupport>1</timeSupport>
+         </timeScale>
+         <speciation>Not Applicable</speciation>
+      </variable>
+      <variable>
+         <variableCode vocabulary="OGIMET-PERU" default="true" variableID="9">Wind-(mean)</variableCode>
+         <variableName>Wind speed</variableName>
+         <valueType>Derived Value</valueType>
+         <dataType>Average</dataType>
+         <generalCategory>Climate</generalCategory>
+         <sampleMedium>Air</sampleMedium>
+         <unit>
+            <unitName>kilometers per hour</unitName>
+            <unitType>Velocity</unitType>
+            <unitAbbreviation>km/h</unitAbbreviation>
+            <unitCode>116</unitCode>
+         </unit>
+         <noDataValue>-9999</noDataValue>
+         <timeScale isRegular="false">
+            <unit>
+               <unitName>day</unitName>
+               <unitType>Time</unitType>
+               <unitAbbreviation>d</unitAbbreviation>
+               <unitCode>104</unitCode>
+            </unit>
+            <timeSupport>1</timeSupport>
+         </timeScale>
+         <speciation>Not Applicable</speciation>
+      </variable>
+      <variable>
+         <variableCode vocabulary="OGIMET-PERU" default="true" variableID="10">Snow-(cm)</variableCode>
+         <variableName>Snow depth</variableName>
+         <valueType>Derived Value</valueType>
+         <dataType>Average</dataType>
+         <generalCategory>Climate</generalCategory>
+         <sampleMedium>Air</sampleMedium>
+         <unit>
+            <unitName>centimeter</unitName>
+            <unitType>Length</unitType>
+            <unitAbbreviation>cm</unitAbbreviation>
+            <unitCode>47</unitCode>
+         </unit>
+         <noDataValue>-9999</noDataValue>
+         <timeScale isRegular="false">
+            <unit>
+               <unitName>day</unitName>
+               <unitType>Time</unitType>
+               <unitAbbreviation>d</unitAbbreviation>
+               <unitCode>104</unitCode>
+            </unit>
+            <timeSupport>1</timeSupport>
+         </timeScale>
+         <speciation>Not Applicable</speciation>
+      </variable>
+   </variables>
+</variablesResponse>

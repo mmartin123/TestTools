@@ -1,0 +1,3 @@
+microsoft.aspnet.membership.openauth google single sign on
+
+Web forms no MVC

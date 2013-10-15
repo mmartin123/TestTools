@@ -1,0 +1,73 @@
+﻿@model ProcessTests.Models.vmMain
+@{ var tempWebMethod = String.Empty; }
+@{ var methodCtr = 0; }
+<html>
+<head>
+    <title>Process Tests</title>
+    @*<script src="//ajax.googleapis.com/ajax/libs/jquery/1.10.1/jquery.min.js"></script>
+    <script src="//ajax.googleapis.com/ajax/libs/jqueryui/1.10.3/jquery-ui.min.js"></script>*@
+
+    <link rel="stylesheet" href="http://code.jquery.com/ui/1.10.3/themes/smoothness/jquery-ui.css" />
+    <script src="http://code.jquery.com/jquery-1.9.1.js"></script>
+    <script src="http://code.jquery.com/ui/1.10.3/jquery-ui.js"></script>
+
+    <link href="~/CSS/main.css" rel="stylesheet" />
+    <script type="text/javascript">
+        var GLOBAL_RUNTEST_URL = '@Url.Content("~/Tests/RunIndividualTest")';
+    </script>
+    <script src="~/JS/main.js"></script>
+</head>
+<body>
+    <div class="section-header">
+        <div class="logo">
+            <!--<img src="~/IMG/logo.jpg" />-->
+            <img src="~/IMG/cuahsi_logo_wds.jpg" />
+        </div>
+        <div id="currently-processing">
+            [Currently Processing: <a id="current-testUrl" target="_blank" href="javascript:void(0);">Retrieve Live XML</a>]
+            <img id="wait" src="~/IMG/wait.gif" />
+        </div>
+    </div>
+    <div class="section-notifications">
+        @if (Model.vmAjaxResult.ErrorCode > 0)
+        {
+            <span class="notification-type-error">@Model.vmAjaxResult.ErrorMessage</span>
+        }
+
+    </div>
+    <div class="section-body">
+        <div class="section-body-left">
+            <div id="top-controls">
+                <button id="test-all">
+                    <img src="~/IMG/control_play_blue.png" />
+                    <span>Run All Tests</span>
+                </button>
+            </div>
+            <div id="accordion">
+                @foreach (var tc in Model.TestCases)
+                {
+                    
+                    <h3 id="title-@tc.TestSuiteObject.TestId">@tc.TestSuiteObject.ServiceMethodName - @tc.TestSuiteObject.TestId</h3>
+                    <div>
+                        <span>
+                            @tc.TestSuiteObject.Description
+                        </span>
+                        <div class="test-controls">
+                            <img class="control-play" data-testId="@tc.TestSuiteObject.TestId" data-constructedUrl="@tc.TestSuiteObject.ConstructedUrl" src="~/IMG/control_play_blue.png" />
+                            <img class="control-failed" src="~/IMG/cross.png" />
+                            <img class="control-passed" src="~/IMG/accept.png" />
+                        </div>
+                    </div>
+
+                }
+            </div>
+        </div>
+        <div class="section-body-right">
+            <div id="test-progress"></div>
+        </div>
+    </div>
+    <div class="section-footer">
+    </div>
+</body>
+</html>
+

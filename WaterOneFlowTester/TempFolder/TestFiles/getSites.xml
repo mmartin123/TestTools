@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<sitesResponse xmlns="http://www.cuahsi.org/waterML/1.1/" xmlns:gml="http://www.opengis.net/gml" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:wtr="http://www.cuahsi.org/waterML/" xmlns:xlink="http://www.w3.org/1999/xlink">
+   <queryInfo>
+      <creationTime>2013-07-25T19:55:23.857375-07:00</creationTime>
+      <criteria MethodCalled="GetSites" />
+      <note>ALL Sites(empty request)</note>
+   </queryInfo>
+      <siteInfo>
+         <siteName>Climate Station 01</siteName>
+         <siteCode network="COWEETA" siteID="1">CS01</siteCode>
+         <geoLocation>
+            <geogLocation xsi:type="LatLonPointType" srs="EPSG:4267">
+               <latitude>35.06666667</latitude>
+               <longitude>-83.43333333</longitude>
+            </geogLocation>
+         </geoLocation>
+         <elevation_m>685</elevation_m>
+         <verticalDatum>MSL</verticalDatum>
+         <siteProperty name="County">Macon</siteProperty>
+         <siteProperty name="State">North Carolina</siteProperty>
+         <siteProperty name="Site Comments">Located in the Coweeta Hydrologic Laboratory</siteProperty>
+      </siteInfo>
+   </site>
+   <site>
+      <siteInfo>
+         <siteName>Flume at Watershed 18</siteName>
+         <siteCode network="COWEETA" siteID="2">FW18</siteCode>
+         <geoLocation>
+            <geogLocation xsi:type="LatLonPointType" srs="EPSG:4269">
+               <latitude>35.05116273</latitude>
+               <longitude>-83.43599739</longitude>
+            </geogLocation>
+            <localSiteXY projectionInformation="NAD83 / UTM zone 17N">
+               <X>3881430.2</X>
+               <Y>277826.68</Y>
+            </localSiteXY>
+         </geoLocation>
+         <elevation_m>726</elevation_m>
+         <verticalDatum>MSL</verticalDatum>
+         <siteProperty name="County">Macon</siteProperty>
+         <siteProperty name="State">North Carolina</siteProperty>
+         <siteProperty name="Site Comments">Located in the Coweeta Hydrologic Laboratory</siteProperty>
+         <siteProperty name="PosAccuracy_m">1.337</siteProperty>
+      </siteInfo>
+   </site>
+</sitesResponse>

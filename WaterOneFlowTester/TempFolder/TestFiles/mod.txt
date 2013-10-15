@@ -1,0 +1,12 @@
+GenerateTest()
+
+- GetSites()
+	-
+	-
+	-
+	-
+
+
+
+Seed: 1000 --> 1000 % 100 ... 0 
+Sites: 100

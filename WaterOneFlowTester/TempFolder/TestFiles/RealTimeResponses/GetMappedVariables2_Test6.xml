@@ -1,0 +1,570 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ArrayOfMappedVariable xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://hiscentral.cuahsi.org/20100205/">
+  <MappedVariable>
+    <variableName>Stream stage height</variableName>
+    <variableCode>EPA:462-1</variableCode>
+    <servCode>EPA</servCode>
+    <WSDL>http://river.sdsc.edu/wateroneflow/EPA/cuahsi_1_0.asmx?WSDL</WSDL>
+    <conceptCode>12</conceptCode>
+  </MappedVariable>
+  <MappedVariable>
+    <variableName>Water level in well, measured from MSL</variableName>
+    <variableCode>EPA:528-1</variableCode>
+    <servCode>EPA</servCode>
+    <WSDL>http://river.sdsc.edu/wateroneflow/EPA/cuahsi_1_0.asmx?WSDL</WSDL>
+    <conceptCode>19</conceptCode>
+  </MappedVariable>
+  <MappedVariable>
+    <variableName>Elevation, MSL</variableName>
+    <variableCode>EPA:217-1</variableCode>
+    <servCode>EPA</servCode>
+    <WSDL>http://river.sdsc.edu/wateroneflow/EPA/cuahsi_1_0.asmx?WSDL</WSDL>
+    <conceptCode>12</conceptCode>
+  </MappedVariable>
+  <MappedVariable>
+    <variableName>Elevation, MSL</variableName>
+    <variableCode>EPA:217-1</variableCode>
+    <servCode>EPA</servCode>
+    <WSDL>http://river.sdsc.edu/wateroneflow/EPA/cuahsi_1_0.asmx?WSDL</WSDL>
+    <conceptCode>16</conceptCode>
+  </MappedVariable>
+  <MappedVariable>
+    <variableName>Elevation, MSL</variableName>
+    <variableCode>EPA:217-1</variableCode>
+    <servCode>EPA</servCode>
+    <WSDL>http://river.sdsc.edu/wateroneflow/EPA/cuahsi_1_0.asmx?WSDL</WSDL>
+    <conceptCode>19</conceptCode>
+  </MappedVariable>
+  <MappedVariable>
+    <variableName>Elevation, water surface, MSL</variableName>
+    <variableCode>EPA:220-1</variableCode>
+    <servCode>EPA</servCode>
+    <WSDL>http://river.sdsc.edu/wateroneflow/EPA/cuahsi_1_0.asmx?WSDL</WSDL>
+    <conceptCode>12</conceptCode>
+  </MappedVariable>
+  <MappedVariable>
+    <variableName>Elevation, water surface, MSL</variableName>
+    <variableCode>EPA:220-1</variableCode>
+    <servCode>EPA</servCode>
+    <WSDL>http://river.sdsc.edu/wateroneflow/EPA/cuahsi_1_0.asmx?WSDL</WSDL>
+    <conceptCode>16</conceptCode>
+  </MappedVariable>
+  <MappedVariable>
+    <variableName>Flow, stream stage (choice list)</variableName>
+    <variableCode>EPA:243-1</variableCode>
+    <servCode>EPA</servCode>
+    <WSDL>http://river.sdsc.edu/wateroneflow/EPA/cuahsi_1_0.asmx?WSDL</WSDL>
+    <conceptCode>12</conceptCode>
+  </MappedVariable>
+  <MappedVariable>
+    <variableName>Water level in well, measured from ground surface</variableName>
+    <variableCode>EPA:15841-1</variableCode>
+    <servCode>EPA</servCode>
+    <WSDL>http://river.sdsc.edu/wateroneflow/EPA/cuahsi_1_0.asmx?WSDL</WSDL>
+    <conceptCode>19</conceptCode>
+  </MappedVariable>
+  <MappedVariable>
+    <variableName>Water level reference point elevation</variableName>
+    <variableCode>EPA:16313-1</variableCode>
+    <servCode>EPA</servCode>
+    <WSDL>http://river.sdsc.edu/wateroneflow/EPA/cuahsi_1_0.asmx?WSDL</WSDL>
+    <conceptCode>12</conceptCode>
+  </MappedVariable>
+  <MappedVariable>
+    <variableName>Elevation, groundwater surface, MSL</variableName>
+    <variableCode>EPA:964-1</variableCode>
+    <servCode>EPA</servCode>
+    <WSDL>http://river.sdsc.edu/wateroneflow/EPA/cuahsi_1_0.asmx?WSDL</WSDL>
+    <conceptCode>19</conceptCode>
+  </MappedVariable>
+  <MappedVariable>
+    <variableName>Gage height</variableName>
+    <variableCode>EPA:323374-1</variableCode>
+    <servCode>EPA</servCode>
+    <WSDL>http://river.sdsc.edu/wateroneflow/EPA/cuahsi_1_0.asmx?WSDL</WSDL>
+    <conceptCode>12</conceptCode>
+  </MappedVariable>
+  <MappedVariable>
+    <variableName>Gage height, feet</variableName>
+    <variableCode>NWISUV:00065</variableCode>
+    <servCode>NWISUV</servCode>
+    <WSDL>http://river.sdsc.edu/wateroneflow/NWIS/UnitValues.asmx?WSDL</WSDL>
+    <conceptCode>13</conceptCode>
+  </MappedVariable>
+  <MappedVariable>
+    <variableName>Ground-water level above NAVD 1988, feet</variableName>
+    <variableCode>NWISDV:62611/DataType=Minimum</variableCode>
+    <servCode>NWISDV</servCode>
+    <WSDL>http://river.sdsc.edu/wateroneflow/NWIS/DailyValues.asmx?WSDL</WSDL>
+    <conceptCode>19</conceptCode>
+  </MappedVariable>
+  <MappedVariable>
+    <variableName>Gage height, feet</variableName>
+    <variableCode>NWISDV:00065/statistic=00022</variableCode>
+    <servCode>NWISDV</servCode>
+    <WSDL>http://river.sdsc.edu/wateroneflow/NWIS/DailyValues.asmx?WSDL</WSDL>
+    <conceptCode>12</conceptCode>
+  </MappedVariable>
+  <MappedVariable>
+    <variableName>Gage height, feet</variableName>
+    <variableCode>NWISDV:00065/statistic=00023</variableCode>
+    <servCode>NWISDV</servCode>
+    <WSDL>http://river.sdsc.edu/wateroneflow/NWIS/DailyValues.asmx?WSDL</WSDL>
+    <conceptCode>12</conceptCode>
+  </MappedVariable>
+  <MappedVariable>
+    <variableName>Elevation above NGVD 1929, feet</variableName>
+    <variableCode>NWISDV:72020/statistic=00021</variableCode>
+    <servCode>NWISDV</servCode>
+    <WSDL>http://river.sdsc.edu/wateroneflow/NWIS/DailyValues.asmx?WSDL</WSDL>
+    <conceptCode>19</conceptCode>
+  </MappedVariable>
+  <MappedVariable>
+    <variableName>Elevation above NGVD 1929, feet</variableName>
+    <variableCode>NWISDV:72020/statistic=00024</variableCode>
+    <servCode>NWISDV</servCode>
+    <WSDL>http://river.sdsc.edu/wateroneflow/NWIS/DailyValues.asmx?WSDL</WSDL>
+    <conceptCode>19</conceptCode>
+  </MappedVariable>
+  <MappedVariable>
+    <variableName>Lake or reservoir water surface elevation above NAVD 1988, feet</variableName>
+    <variableCode>NWISDV:62615/statistic=32400</variableCode>
+    <servCode>NWISDV</servCode>
+    <WSDL>http://river.sdsc.edu/wateroneflow/NWIS/DailyValues.asmx?WSDL</WSDL>
+    <conceptCode>16</conceptCode>
+  </MappedVariable>
+  <MappedVariable>
+    <variableName>Gage height, feet</variableName>
+    <variableCode>NWISDV:00065/statistic=30700</variableCode>
+    <servCode>NWISDV</servCode>
+    <WSDL>http://river.sdsc.edu/wateroneflow/NWIS/DailyValues.asmx?WSDL</WSDL>
+    <conceptCode>12</conceptCode>
+  </MappedVariable>
+  <MappedVariable>
+    <variableName>Depth to water level, feet below land surface</variableName>
+    <variableCode>NWISDV:72019/DataType=Instantaneous</variableCode>
+    <servCode>NWISDV</servCode>
+    <WSDL>http://river.sdsc.edu/wateroneflow/NWIS/DailyValues.asmx?WSDL</WSDL>
+    <conceptCode>19</conceptCode>
+  </MappedVariable>
+  <MappedVariable>
+    <variableName>Depth to water level, feet below land surface</variableName>
+    <variableCode>NWISDV:72019/statistic=31500</variableCode>
+    <servCode>NWISDV</servCode>
+    <WSDL>http://river.sdsc.edu/wateroneflow/NWIS/DailyValues.asmx?WSDL</WSDL>
+    <conceptCode>19</conceptCode>
+  </MappedVariable>
+  <MappedVariable>
+    <variableName>Depth to water level, feet below land surface</variableName>
+    <variableCode>NWISDV:72019/statistic=30200</variableCode>
+    <servCode>NWISDV</servCode>
+    <WSDL>http://river.sdsc.edu/wateroneflow/NWIS/DailyValues.asmx?WSDL</WSDL>
+    <conceptCode>19</conceptCode>
+  </MappedVariable>
+  <MappedVariable>
+    <variableName>Elevation above NGVD 1929, feet</variableName>
+    <variableCode>NWISDV:72020/statistic=30600</variableCode>
+    <servCode>NWISDV</servCode>
+    <WSDL>http://river.sdsc.edu/wateroneflow/NWIS/DailyValues.asmx?WSDL</WSDL>
+    <conceptCode>19</conceptCode>
+  </MappedVariable>
+  <MappedVariable>
+    <variableName>Elevation above NGVD 1929, feet</variableName>
+    <variableCode>NWISDV:72020/DataType=Instantaneous</variableCode>
+    <servCode>NWISDV</servCode>
+    <WSDL>http://river.sdsc.edu/wateroneflow/NWIS/DailyValues.asmx?WSDL</WSDL>
+    <conceptCode>19</conceptCode>
+  </MappedVariable>
+  <MappedVariable>
+    <variableName>Gage height, feet</variableName>
+    <variableCode>NWISDV:00065/statistic=30600</variableCode>
+    <servCode>NWISDV</servCode>
+    <WSDL>http://river.sdsc.edu/wateroneflow/NWIS/DailyValues.asmx?WSDL</WSDL>
+    <conceptCode>12</conceptCode>
+  </MappedVariable>
+  <MappedVariable>
+    <variableName>Gage height, feet</variableName>
+    <variableCode>NWISDV:00065/statistic=31200</variableCode>
+    <servCode>NWISDV</servCode>
+    <WSDL>http://river.sdsc.edu/wateroneflow/NWIS/DailyValues.asmx?WSDL</WSDL>
+    <conceptCode>12</conceptCode>
+  </MappedVariable>
+  <MappedVariable>
+    <variableName>Gage height, feet</variableName>
+    <variableCode>NWISDV:00065/statistic=00004</variableCode>
+    <servCode>NWISDV</servCode>
+    <WSDL>http://river.sdsc.edu/wateroneflow/NWIS/DailyValues.asmx?WSDL</WSDL>
+    <conceptCode>12</conceptCode>
+  </MappedVariable>
+  <MappedVariable>
+    <variableName>Gage height, feet</variableName>
+    <variableCode>NWISDV:00065/statistic=00005</variableCode>
+    <servCode>NWISDV</servCode>
+    <WSDL>http://river.sdsc.edu/wateroneflow/NWIS/DailyValues.asmx?WSDL</WSDL>
+    <conceptCode>12</conceptCode>
+  </MappedVariable>
+  <MappedVariable>
+    <variableName>Gage height, above datum, meters</variableName>
+    <variableCode>NWISDV:99065/DataType=Maximum</variableCode>
+    <servCode>NWISDV</servCode>
+    <WSDL>http://river.sdsc.edu/wateroneflow/NWIS/DailyValues.asmx?WSDL</WSDL>
+    <conceptCode>12</conceptCode>
+  </MappedVariable>
+  <MappedVariable>
+    <variableName>Gage height, above datum, meters</variableName>
+    <variableCode>NWISDV:99065/DataType=Minimum</variableCode>
+    <servCode>NWISDV</servCode>
+    <WSDL>http://river.sdsc.edu/wateroneflow/NWIS/DailyValues.asmx?WSDL</WSDL>
+    <conceptCode>12</conceptCode>
+  </MappedVariable>
+  <MappedVariable>
+    <variableName>Gage height, feet</variableName>
+    <variableCode>NWISDV:00065/statistic=30900</variableCode>
+    <servCode>NWISDV</servCode>
+    <WSDL>http://river.sdsc.edu/wateroneflow/NWIS/DailyValues.asmx?WSDL</WSDL>
+    <conceptCode>12</conceptCode>
+  </MappedVariable>
+  <MappedVariable>
+    <variableName>Gage height, feet</variableName>
+    <variableCode>NWISDV:00065/statistic=30800</variableCode>
+    <servCode>NWISDV</servCode>
+    <WSDL>http://river.sdsc.edu/wateroneflow/NWIS/DailyValues.asmx?WSDL</WSDL>
+    <conceptCode>12</conceptCode>
+  </MappedVariable>
+  <MappedVariable>
+    <variableName>Gage height, feet</variableName>
+    <variableCode>NWISDV:00065/DataType=Average</variableCode>
+    <servCode>NWISDV</servCode>
+    <WSDL>http://river.sdsc.edu/wateroneflow/NWIS/DailyValues.asmx?WSDL</WSDL>
+    <conceptCode>12</conceptCode>
+  </MappedVariable>
+  <MappedVariable>
+    <variableName>Depth to water level, feet below land surface</variableName>
+    <variableCode>NWISDV:72019/DataType=Average</variableCode>
+    <servCode>NWISDV</servCode>
+    <WSDL>http://river.sdsc.edu/wateroneflow/NWIS/DailyValues.asmx?WSDL</WSDL>
+    <conceptCode>19</conceptCode>
+  </MappedVariable>
+  <MappedVariable>
+    <variableName>Gage height, feet</variableName>
+    <variableCode>NWISDV:00065/DataType=Maximum</variableCode>
+    <servCode>NWISDV</servCode>
+    <WSDL>http://river.sdsc.edu/wateroneflow/NWIS/DailyValues.asmx?WSDL</WSDL>
+    <conceptCode>12</conceptCode>
+  </MappedVariable>
+  <MappedVariable>
+    <variableName>Gage height, feet</variableName>
+    <variableCode>NWISDV:00065/DataType=Minimum</variableCode>
+    <servCode>NWISDV</servCode>
+    <WSDL>http://river.sdsc.edu/wateroneflow/NWIS/DailyValues.asmx?WSDL</WSDL>
+    <conceptCode>12</conceptCode>
+  </MappedVariable>
+  <MappedVariable>
+    <variableName>Gage height, above datum, meters</variableName>
+    <variableCode>NWISDV:99065/DataType=Average</variableCode>
+    <servCode>NWISDV</servCode>
+    <WSDL>http://river.sdsc.edu/wateroneflow/NWIS/DailyValues.asmx?WSDL</WSDL>
+    <conceptCode>12</conceptCode>
+  </MappedVariable>
+  <MappedVariable>
+    <variableName>Depth to water level, feet below land surface</variableName>
+    <variableCode>NWISDV:72019/DataType=Maximum</variableCode>
+    <servCode>NWISDV</servCode>
+    <WSDL>http://river.sdsc.edu/wateroneflow/NWIS/DailyValues.asmx?WSDL</WSDL>
+    <conceptCode>19</conceptCode>
+  </MappedVariable>
+  <MappedVariable>
+    <variableName>Depth to water level, feet below land surface</variableName>
+    <variableCode>NWISDV:72019/DataType=Minimum</variableCode>
+    <servCode>NWISDV</servCode>
+    <WSDL>http://river.sdsc.edu/wateroneflow/NWIS/DailyValues.asmx?WSDL</WSDL>
+    <conceptCode>19</conceptCode>
+  </MappedVariable>
+  <MappedVariable>
+    <variableName>Elevation above NGVD 1929, feet</variableName>
+    <variableCode>NWISDV:72020/DataType=Average</variableCode>
+    <servCode>NWISDV</servCode>
+    <WSDL>http://river.sdsc.edu/wateroneflow/NWIS/DailyValues.asmx?WSDL</WSDL>
+    <conceptCode>19</conceptCode>
+  </MappedVariable>
+  <MappedVariable>
+    <variableName>Gage height, feet</variableName>
+    <variableCode>NWISDV:00065/statistic=32400</variableCode>
+    <servCode>NWISDV</servCode>
+    <WSDL>http://river.sdsc.edu/wateroneflow/NWIS/DailyValues.asmx?WSDL</WSDL>
+    <conceptCode>12</conceptCode>
+  </MappedVariable>
+  <MappedVariable>
+    <variableName>Elevation above NGVD 1929, feet</variableName>
+    <variableCode>NWISDV:72020/DataType=Maximum</variableCode>
+    <servCode>NWISDV</servCode>
+    <WSDL>http://river.sdsc.edu/wateroneflow/NWIS/DailyValues.asmx?WSDL</WSDL>
+    <conceptCode>19</conceptCode>
+  </MappedVariable>
+  <MappedVariable>
+    <variableName>Elevation above NGVD 1929, feet</variableName>
+    <variableCode>NWISDV:72020/DataType=Minimum</variableCode>
+    <servCode>NWISDV</servCode>
+    <WSDL>http://river.sdsc.edu/wateroneflow/NWIS/DailyValues.asmx?WSDL</WSDL>
+    <conceptCode>19</conceptCode>
+  </MappedVariable>
+  <MappedVariable>
+    <variableName>Elevation above NGVD 1929, feet</variableName>
+    <variableCode>NWISDV:72020/statistic=32400</variableCode>
+    <servCode>NWISDV</servCode>
+    <WSDL>http://river.sdsc.edu/wateroneflow/NWIS/DailyValues.asmx?WSDL</WSDL>
+    <conceptCode>19</conceptCode>
+  </MappedVariable>
+  <MappedVariable>
+    <variableName>Gage height, feet</variableName>
+    <variableCode>NWISDV:00065/statistic=00021</variableCode>
+    <servCode>NWISDV</servCode>
+    <WSDL>http://river.sdsc.edu/wateroneflow/NWIS/DailyValues.asmx?WSDL</WSDL>
+    <conceptCode>12</conceptCode>
+  </MappedVariable>
+  <MappedVariable>
+    <variableName>Gage height, feet</variableName>
+    <variableCode>NWISDV:00065/statistic=00024</variableCode>
+    <servCode>NWISDV</servCode>
+    <WSDL>http://river.sdsc.edu/wateroneflow/NWIS/DailyValues.asmx?WSDL</WSDL>
+    <conceptCode>12</conceptCode>
+  </MappedVariable>
+  <MappedVariable>
+    <variableName>Depth to water level, feet below land surface</variableName>
+    <variableCode>NWISDV:72019/statistic=31200</variableCode>
+    <servCode>NWISDV</servCode>
+    <WSDL>http://river.sdsc.edu/wateroneflow/NWIS/DailyValues.asmx?WSDL</WSDL>
+    <conceptCode>19</conceptCode>
+  </MappedVariable>
+  <MappedVariable>
+    <variableName>Gage height, feet</variableName>
+    <variableCode>NWISDV:00065/DataType=Median</variableCode>
+    <servCode>NWISDV</servCode>
+    <WSDL>http://river.sdsc.edu/wateroneflow/NWIS/DailyValues.asmx?WSDL</WSDL>
+    <conceptCode>12</conceptCode>
+  </MappedVariable>
+  <MappedVariable>
+    <variableName>Gage height, feet</variableName>
+    <variableCode>NWISDV:00065/DataType=Cumulative</variableCode>
+    <servCode>NWISDV</servCode>
+    <WSDL>http://river.sdsc.edu/wateroneflow/NWIS/DailyValues.asmx?WSDL</WSDL>
+    <conceptCode>12</conceptCode>
+  </MappedVariable>
+  <MappedVariable>
+    <variableName>Stream water level elevation above NAVD 1988, in feet</variableName>
+    <variableCode>NWISDV:63160/DataType=Maximum</variableCode>
+    <servCode>NWISDV</servCode>
+    <WSDL>http://river.sdsc.edu/wateroneflow/NWIS/DailyValues.asmx?WSDL</WSDL>
+    <conceptCode>12</conceptCode>
+  </MappedVariable>
+  <MappedVariable>
+    <variableName>Stream water level elevation above NAVD 1988, in feet</variableName>
+    <variableCode>NWISDV:63160/DataType=Minimum</variableCode>
+    <servCode>NWISDV</servCode>
+    <WSDL>http://river.sdsc.edu/wateroneflow/NWIS/DailyValues.asmx?WSDL</WSDL>
+    <conceptCode>12</conceptCode>
+  </MappedVariable>
+  <MappedVariable>
+    <variableName>Stream water level elevation above NAVD 1988, in feet</variableName>
+    <variableCode>NWISDV:63160/DataType=Average</variableCode>
+    <servCode>NWISDV</servCode>
+    <WSDL>http://river.sdsc.edu/wateroneflow/NWIS/DailyValues.asmx?WSDL</WSDL>
+    <conceptCode>12</conceptCode>
+  </MappedVariable>
+  <MappedVariable>
+    <variableName>Lake or reservoir water surface elevation above NGVD 1929, feet</variableName>
+    <variableCode>NWISDV:62614/statistic=32400</variableCode>
+    <servCode>NWISDV</servCode>
+    <WSDL>http://river.sdsc.edu/wateroneflow/NWIS/DailyValues.asmx?WSDL</WSDL>
+    <conceptCode>16</conceptCode>
+  </MappedVariable>
+  <MappedVariable>
+    <variableName>Elevation above NGVD 1929, feet</variableName>
+    <variableCode>NWISDV:72020/statistic=31200</variableCode>
+    <servCode>NWISDV</servCode>
+    <WSDL>http://river.sdsc.edu/wateroneflow/NWIS/DailyValues.asmx?WSDL</WSDL>
+    <conceptCode>19</conceptCode>
+  </MappedVariable>
+  <MappedVariable>
+    <variableName>Elevation above NGVD 1929, feet</variableName>
+    <variableCode>NWISDV:72020/statistic=32359</variableCode>
+    <servCode>NWISDV</servCode>
+    <WSDL>http://river.sdsc.edu/wateroneflow/NWIS/DailyValues.asmx?WSDL</WSDL>
+    <conceptCode>19</conceptCode>
+  </MappedVariable>
+  <MappedVariable>
+    <variableName>Lake or reservoir water surface elevation above NGVD 1929, feet</variableName>
+    <variableCode>NWISDV:62614/DataType=Average</variableCode>
+    <servCode>NWISDV</servCode>
+    <WSDL>http://river.sdsc.edu/wateroneflow/NWIS/DailyValues.asmx?WSDL</WSDL>
+    <conceptCode>16</conceptCode>
+  </MappedVariable>
+  <MappedVariable>
+    <variableName>Gage height, feet</variableName>
+    <variableCode>NWISDV:00065/statistic=00012</variableCode>
+    <servCode>NWISDV</servCode>
+    <WSDL>http://river.sdsc.edu/wateroneflow/NWIS/DailyValues.asmx?WSDL</WSDL>
+    <conceptCode>12</conceptCode>
+  </MappedVariable>
+  <MappedVariable>
+    <variableName>Gage height, feet</variableName>
+    <variableCode>NWISDV:00065/DataType=Instantaneous</variableCode>
+    <servCode>NWISDV</servCode>
+    <WSDL>http://river.sdsc.edu/wateroneflow/NWIS/DailyValues.asmx?WSDL</WSDL>
+    <conceptCode>12</conceptCode>
+  </MappedVariable>
+  <MappedVariable>
+    <variableName>Stream water level elevation above NGVD 1929, in feet</variableName>
+    <variableCode>NWISDV:63158/DataType=Maximum</variableCode>
+    <servCode>NWISDV</servCode>
+    <WSDL>http://river.sdsc.edu/wateroneflow/NWIS/DailyValues.asmx?WSDL</WSDL>
+    <conceptCode>12</conceptCode>
+  </MappedVariable>
+  <MappedVariable>
+    <variableName>Stream water level elevation above NGVD 1929, in feet</variableName>
+    <variableCode>NWISDV:63158/DataType=Minimum</variableCode>
+    <servCode>NWISDV</servCode>
+    <WSDL>http://river.sdsc.edu/wateroneflow/NWIS/DailyValues.asmx?WSDL</WSDL>
+    <conceptCode>12</conceptCode>
+  </MappedVariable>
+  <MappedVariable>
+    <variableName>Stream water level elevation above NGVD 1929, in feet</variableName>
+    <variableCode>NWISDV:63158/statistic=32400</variableCode>
+    <servCode>NWISDV</servCode>
+    <WSDL>http://river.sdsc.edu/wateroneflow/NWIS/DailyValues.asmx?WSDL</WSDL>
+    <conceptCode>12</conceptCode>
+  </MappedVariable>
+  <MappedVariable>
+    <variableName>Ground-water level above NAVD 1988, feet</variableName>
+    <variableCode>NWISDV:62611/DataType=Average</variableCode>
+    <servCode>NWISDV</servCode>
+    <WSDL>http://river.sdsc.edu/wateroneflow/NWIS/DailyValues.asmx?WSDL</WSDL>
+    <conceptCode>19</conceptCode>
+  </MappedVariable>
+  <MappedVariable>
+    <variableName>Ground-water level above NAVD 1988, feet</variableName>
+    <variableCode>NWISDV:62611/DataType=Maximum</variableCode>
+    <servCode>NWISDV</servCode>
+    <WSDL>http://river.sdsc.edu/wateroneflow/NWIS/DailyValues.asmx?WSDL</WSDL>
+    <conceptCode>19</conceptCode>
+  </MappedVariable>
+  <MappedVariable>
+    <variableName>Elevation of reservoir water surface above datum, feet</variableName>
+    <variableCode>NWISIID:00062</variableCode>
+    <servCode>NWISIID</servCode>
+    <WSDL>http://river.sdsc.edu/wateroneflow/NWIS/Data.asmx?WSDL</WSDL>
+    <conceptCode>16</conceptCode>
+  </MappedVariable>
+  <MappedVariable>
+    <variableName>Gage height, feet</variableName>
+    <variableCode>NWISIID:00065</variableCode>
+    <servCode>NWISIID</servCode>
+    <WSDL>http://river.sdsc.edu/wateroneflow/NWIS/Data.asmx?WSDL</WSDL>
+    <conceptCode>12</conceptCode>
+  </MappedVariable>
+  <MappedVariable>
+    <variableName>Stream stage, meters</variableName>
+    <variableCode>NWISIID:00072</variableCode>
+    <servCode>NWISIID</servCode>
+    <WSDL>http://river.sdsc.edu/wateroneflow/NWIS/Data.asmx?WSDL</WSDL>
+    <conceptCode>12</conceptCode>
+  </MappedVariable>
+  <MappedVariable>
+    <variableName>Gage height, above datum, meters</variableName>
+    <variableCode>NWISIID:30207</variableCode>
+    <servCode>NWISIID</servCode>
+    <WSDL>http://river.sdsc.edu/wateroneflow/NWIS/Data.asmx?WSDL</WSDL>
+    <conceptCode>12</conceptCode>
+  </MappedVariable>
+  <MappedVariable>
+    <variableName>Depth to water level, below land surface datum (LSD), meters</variableName>
+    <variableCode>NWISIID:30210</variableCode>
+    <servCode>NWISIID</servCode>
+    <WSDL>http://river.sdsc.edu/wateroneflow/NWIS/Data.asmx?WSDL</WSDL>
+    <conceptCode>19</conceptCode>
+  </MappedVariable>
+  <MappedVariable>
+    <variableName>Ground-water level above NGVD 1929, feet</variableName>
+    <variableCode>NWISIID:62610</variableCode>
+    <servCode>NWISIID</servCode>
+    <WSDL>http://river.sdsc.edu/wateroneflow/NWIS/Data.asmx?WSDL</WSDL>
+    <conceptCode>19</conceptCode>
+  </MappedVariable>
+  <MappedVariable>
+    <variableName>Ground-water level above NAVD 1988, feet</variableName>
+    <variableCode>NWISIID:62611</variableCode>
+    <servCode>NWISIID</servCode>
+    <WSDL>http://river.sdsc.edu/wateroneflow/NWIS/Data.asmx?WSDL</WSDL>
+    <conceptCode>19</conceptCode>
+  </MappedVariable>
+  <MappedVariable>
+    <variableName>Lake or reservoir water surface elevation above NGVD 1929, feet</variableName>
+    <variableCode>NWISIID:62614</variableCode>
+    <servCode>NWISIID</servCode>
+    <WSDL>http://river.sdsc.edu/wateroneflow/NWIS/Data.asmx?WSDL</WSDL>
+    <conceptCode>16</conceptCode>
+  </MappedVariable>
+  <MappedVariable>
+    <variableName>Lake or reservoir water surface elevation above NAVD 1988, feet</variableName>
+    <variableCode>NWISIID:62615</variableCode>
+    <servCode>NWISIID</servCode>
+    <WSDL>http://river.sdsc.edu/wateroneflow/NWIS/Data.asmx?WSDL</WSDL>
+    <conceptCode>16</conceptCode>
+  </MappedVariable>
+  <MappedVariable>
+    <variableName>Stream water level elevation above NAVD 1988, in feet</variableName>
+    <variableCode>NWISIID:63160</variableCode>
+    <servCode>NWISIID</servCode>
+    <WSDL>http://river.sdsc.edu/wateroneflow/NWIS/Data.asmx?WSDL</WSDL>
+    <conceptCode>12</conceptCode>
+  </MappedVariable>
+  <MappedVariable>
+    <variableName>Depth to water level, feet below land surface</variableName>
+    <variableCode>NWISIID:72019</variableCode>
+    <servCode>NWISIID</servCode>
+    <WSDL>http://river.sdsc.edu/wateroneflow/NWIS/Data.asmx?WSDL</WSDL>
+    <conceptCode>19</conceptCode>
+  </MappedVariable>
+  <MappedVariable>
+    <variableName>Elevation above NGVD 1929, feet</variableName>
+    <variableCode>NWISIID:72020</variableCode>
+    <servCode>NWISIID</servCode>
+    <WSDL>http://river.sdsc.edu/wateroneflow/NWIS/Data.asmx?WSDL</WSDL>
+    <conceptCode>19</conceptCode>
+  </MappedVariable>
+  <MappedVariable>
+    <variableName>Water content of snow, inches</variableName>
+    <variableCode>NWISIID:81026</variableCode>
+    <servCode>NWISIID</servCode>
+    <WSDL>http://river.sdsc.edu/wateroneflow/NWIS/Data.asmx?WSDL</WSDL>
+    <conceptCode>10</conceptCode>
+  </MappedVariable>
+  <MappedVariable>
+    <variableName>Snow depth, inches</variableName>
+    <variableCode>NWISIID:82300</variableCode>
+    <servCode>NWISIID</servCode>
+    <WSDL>http://river.sdsc.edu/wateroneflow/NWIS/Data.asmx?WSDL</WSDL>
+    <conceptCode>9</conceptCode>
+  </MappedVariable>
+  <MappedVariable>
+    <variableName>Water level, depth below land surface, meters</variableName>
+    <variableCode>NWISIID:99019</variableCode>
+    <servCode>NWISIID</servCode>
+    <WSDL>http://river.sdsc.edu/wateroneflow/NWIS/Data.asmx?WSDL</WSDL>
+    <conceptCode>19</conceptCode>
+  </MappedVariable>
+  <MappedVariable>
+    <variableName>Elevation above NGVD 1929, meters</variableName>
+    <variableCode>NWISIID:99020</variableCode>
+    <servCode>NWISIID</servCode>
+    <WSDL>http://river.sdsc.edu/wateroneflow/NWIS/Data.asmx?WSDL</WSDL>
+    <conceptCode>19</conceptCode>
+  </MappedVariable>
+  <MappedVariable>
+    <variableName>Gage height, above datum, meters</variableName>
+    <variableCode>NWISIID:99065</variableCode>
+    <servCode>NWISIID</servCode>
+    <WSDL>http://river.sdsc.edu/wateroneflow/NWIS/Data.asmx?WSDL</WSDL>
+    <conceptCode>12</conceptCode>
+  </MappedVariable>
+</ArrayOfMappedVariable>

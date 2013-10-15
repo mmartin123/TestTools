@@ -1,0 +1,206 @@
+﻿/*#region GENERICS*/
+body {
+    width: 80%;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.float-right {
+    float: right;
+}
+/*#endregion*/
+
+/*#region ACCORDION*/
+#accordion h3 {
+    font-size: 12px;
+}
+
+#accordion div {
+    font-size: 10px;
+}
+
+#accordion .test-controls {
+    border: 1px solid gray;
+    height: 35px;
+    line-height: 35px;
+}
+
+    #accordion .test-controls img {
+        width: 25px;
+        margin: 5px;
+    }
+
+    #accordion .test-controls .control-play {
+        cursor: pointer;
+    }
+
+    #accordion .test-controls .control-passed {
+        display: none;
+    }
+
+    #accordion .test-controls .control-failed {
+        display: none;
+    }
+/*#endregion*/
+
+/*#region HEADER*/
+.section-header {
+    z-index: 1000;
+    /*position: fixed;*/
+    /*left: 10%;*/
+    /*top: 0;*/
+    height: 60px;
+    /*width: 80%;*/
+    margin-left: auto;
+    margin-right: auto;
+    background: #CFCACC; /*This is the top nav background color, change it as you please!*/
+}
+
+    .section-header .logo img {
+        height: 60px;
+    }
+
+    .section-header #currently-processing {
+        visibility: hidden;
+        float: right;
+        position: relative;
+        bottom: 35px;
+        right: 5px;
+        color: white;
+    }
+/*#endregion*/
+
+/*#region NOTIFICATIONS*/
+.section-notifications {
+    margin-top: 60px;
+    height: 30px;
+    margin-left: auto;
+    margin-right: auto;
+    width: 80%;
+    display: none;
+}
+
+    .section-notifications .notification-type-success {
+        color: green;
+    }
+
+    .section-notifications .notification-type-error {
+        color: red;
+    }
+
+    .section-notifications .notification-type-info {
+        color: blue;
+    }
+/*#endregion*/
+
+.section-body {
+    z-index: 500;
+    /*margin-top: 60px;*/ /*THIS VALUE SHUD BE THE SAME AS THE SECTION-HEADER + SECTION-NOTIFICATIONS HEIGHT*/
+    border: 1px solid Black;
+    overflow-y: auto;
+    height: 540px;
+}
+
+    .section-body .section-body-left {
+        float: left;
+        display: inline-block;
+        width: 45%;
+    }
+
+    .section-body .section-body-right {
+        padding: 5px 0px 0px 5px;
+        display: inline-block;
+        width: 53%;
+        font-size: 15px;
+    }
+
+/*#region FOOTER*/
+.section-footer {
+    position: fixed;
+    left: 10%;
+    bottom: 0;
+    height: 30px;
+    width: 80%;
+    margin-left: auto;
+    margin-right: auto;
+    background: #358d82;
+    display: none;
+}
+
+
+/*#endregion*/
+
+/*#region PLAY ALL TESTS*/
+#top-controls {
+    /*margin-top: 20px;*/
+}
+
+.greenBtn {
+    background: #6cdd45;
+    border: 2px solid Black;
+}
+
+#btnPreview, #btnStep1 {
+    margin-left: auto;
+    margin-right: auto;
+    /*width: 150px;*/
+    height: 35px;
+    /*background: #6cdd45;*/
+    font-size: 12px;
+}
+
+#btnRunAll {
+    margin-left: auto;
+    margin-right: auto;
+    width: 150px;
+    height: 35px;
+    background: #6cdd45;
+    font-size: 12px;
+}
+
+#btnPreview img, #btnStep1 img {
+    visibility: hidden;
+}
+
+    #btnRunAll img, #btnPreview img, #btnStep1 img, #test-all span {
+        display: inline;
+    }
+
+    #btnRunAll img, #btnPreview img, #btnStep1 img {
+        width: 25px;
+    }
+
+#btnPreview span, #btnStep1 span {
+    padding-right: 25px;
+}
+
+    #btnRunAll span, #btnPreview span, #btnStep1 span {
+        position: relative;
+        bottom: 10px;
+        font-weight: bold;
+    }
+/*#endregion*/
+
+#myHistory p {
+    color: blue;
+    font-size: 12px;
+}
+
+#global-notifications {
+    visibility: hidden;
+    position: absolute;
+    bottom: 0;
+    height: 100px;
+    width: 80%;
+    padding: 20px 0 0 10px;
+    text-align: left;
+    font-weight: bold;
+}
+
+.ui-tabs-anchor {
+    font-weight: bold !important;
+}
+
+.ui-widget-content {
+    border-bottom: 0 !important;
+}

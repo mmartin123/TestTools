@@ -1,0 +1,108 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ArrayOfMappedVariable xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://hiscentral.cuahsi.org/20100205/">
+  <MappedVariable>
+    <variableName>Water level</variableName>
+    <variableCode>ML:USU33</variableCode>
+    <servCode>MudLake</servCode>
+    <WSDL>http://icewater.usu.edu/MudLake/cuahsi_1_0.asmx?WSDL</WSDL>
+    <conceptCode>16</conceptCode>
+  </MappedVariable>
+  <MappedVariable>
+    <variableName>Wind speed</variableName>
+    <variableCode>ML:USU13</variableCode>
+    <servCode>MudLake</servCode>
+    <WSDL>http://icewater.usu.edu/MudLake/cuahsi_1_0.asmx?WSDL</WSDL>
+    <conceptCode>33</conceptCode>
+  </MappedVariable>
+  <MappedVariable>
+    <variableName>Wind speed</variableName>
+    <variableCode>ML:USU19</variableCode>
+    <servCode>MudLake</servCode>
+    <WSDL>http://icewater.usu.edu/MudLake/cuahsi_1_0.asmx?WSDL</WSDL>
+    <conceptCode>33</conceptCode>
+  </MappedVariable>
+  <MappedVariable>
+    <variableName>Temperature</variableName>
+    <variableCode>ML:USU9</variableCode>
+    <servCode>MudLake</servCode>
+    <WSDL>http://icewater.usu.edu/MudLake/cuahsi_1_0.asmx?WSDL</WSDL>
+    <conceptCode>49</conceptCode>
+  </MappedVariable>
+  <MappedVariable>
+    <variableName>Temperature</variableName>
+    <variableCode>ML:USU20</variableCode>
+    <servCode>MudLake</servCode>
+    <WSDL>http://icewater.usu.edu/MudLake/cuahsi_1_0.asmx?WSDL</WSDL>
+    <conceptCode>49</conceptCode>
+  </MappedVariable>
+  <MappedVariable>
+    <variableName>Temperature</variableName>
+    <variableCode>ML:USU21</variableCode>
+    <servCode>MudLake</servCode>
+    <WSDL>http://icewater.usu.edu/MudLake/cuahsi_1_0.asmx?WSDL</WSDL>
+    <conceptCode>49</conceptCode>
+  </MappedVariable>
+  <MappedVariable>
+    <variableName>Temperature</variableName>
+    <variableCode>ML:USU22</variableCode>
+    <servCode>MudLake</servCode>
+    <WSDL>http://icewater.usu.edu/MudLake/cuahsi_1_0.asmx?WSDL</WSDL>
+    <conceptCode>49</conceptCode>
+  </MappedVariable>
+  <MappedVariable>
+    <variableName>Temperature</variableName>
+    <variableCode>ML:USU4</variableCode>
+    <servCode>MudLake</servCode>
+    <WSDL>http://icewater.usu.edu/MudLake/cuahsi_1_0.asmx?WSDL</WSDL>
+    <conceptCode>51</conceptCode>
+  </MappedVariable>
+  <MappedVariable>
+    <variableName>Barometric pressure</variableName>
+    <variableCode>ML:USU16</variableCode>
+    <servCode>MudLake</servCode>
+    <WSDL>http://icewater.usu.edu/MudLake/cuahsi_1_0.asmx?WSDL</WSDL>
+    <conceptCode>56</conceptCode>
+  </MappedVariable>
+  <MappedVariable>
+    <variableName>Barometric pressure</variableName>
+    <variableCode>ML:USU24</variableCode>
+    <servCode>MudLake</servCode>
+    <WSDL>http://icewater.usu.edu/MudLake/cuahsi_1_0.asmx?WSDL</WSDL>
+    <conceptCode>56</conceptCode>
+  </MappedVariable>
+  <MappedVariable>
+    <variableName>Precipitation</variableName>
+    <variableCode>ML:USU11</variableCode>
+    <servCode>MudLake</servCode>
+    <WSDL>http://icewater.usu.edu/MudLake/cuahsi_1_0.asmx?WSDL</WSDL>
+    <conceptCode>65</conceptCode>
+  </MappedVariable>
+  <MappedVariable>
+    <variableName>Precipitation</variableName>
+    <variableCode>ML:USU25</variableCode>
+    <servCode>MudLake</servCode>
+    <WSDL>http://icewater.usu.edu/MudLake/cuahsi_1_0.asmx?WSDL</WSDL>
+    <conceptCode>65</conceptCode>
+  </MappedVariable>
+  <MappedVariable>
+    <variableName>Wind direction</variableName>
+    <variableCode>ML:USU14</variableCode>
+    <servCode>MudLake</servCode>
+    <WSDL>http://icewater.usu.edu/MudLake/cuahsi_1_0.asmx?WSDL</WSDL>
+    <conceptCode>67</conceptCode>
+  </MappedVariable>
+  <MappedVariable>
+    <variableName>Wind direction</variableName>
+    <variableCode>ML:USU15</variableCode>
+    <servCode>MudLake</servCode>
+    <WSDL>http://icewater.usu.edu/MudLake/cuahsi_1_0.asmx?WSDL</WSDL>
+    <conceptCode>67</conceptCode>
+  </MappedVariable>
+  <MappedVariable>
+    <variableName>Solids, total Suspended</variableName>
+    <variableCode>ML:USU29</variableCode>
+    <servCode>MudLake</servCode>
+    <WSDL>http://icewater.usu.edu/MudLake/cuahsi_1_0.asmx?WSDL</WSDL>
+    <conceptCode>102</conceptCode>
+  </MappedVariable>
+</ArrayOfMappedVariable>

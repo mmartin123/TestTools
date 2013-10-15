@@ -1,0 +1,124 @@
+﻿<div class="section-body">
+    <div id="tabs">
+        <ul>
+            <li><a href="#tabs-1">URL from Catalog</a></li>
+            <li><a href="#tabs-2">Seed</a></li>
+            <li><a href="#tabs-3">Generate Test</a></li>
+            <li><a href="#tabs-4">Run Test</a></li>
+            <li><a href="#tabs-5">Compare to Previous</a></li>
+        </ul>
+        <div id="tabs-1">
+            Service URL from Catalog:
+                <input style="width: 700px;" type="text" id="txtUrl" autofocus="autofocus" />
+            <br />
+            Ex: http://peru.hydrodata.org/codehydro/services/cuahsi_1_1.asmx?wsdl
+
+                <br />
+            <div style="float: right;">
+                <button id="btnPreview">
+                    <img src="~/IMG/control_play_blue.png" />
+                    <span>Preview Site</span>
+                </button>
+                <button id="btnStep1" class="greenBtn" style="border: 1px solid black !important;">
+                    <img src="~/IMG/control_play_blue.png" />
+                    <span>Next</span>
+                </button>
+                @if (Session["loggedInUsername"] != null) {
+                    if (ProcessTests.MultiEndPoint.AdminUsers.Contains(Session["loggedInUsername"].ToString())) {
+                    
+                    <button id="btnRunAll">
+                        <img src="~/IMG/control_play_blue.png" />
+                        <span>Run All WSDLs</span>
+                    </button>
+                
+                    
+                    }
+                }
+
+            </div>
+            <h4>My History</h4>
+            <select id="ddlHistory">
+                <option value="1">Last 1 day</option>
+                <option value="7">Last 7 days</option>
+                <option selected value="14">Last 14 days</option>
+                <option value="30">Last 30 days</option>
+            </select>
+            <div id="myHistory"></div>
+        </div>
+        <div id="tabs-2">
+            Seed:
+                <input type="text" id="txtSeed" onkeypress='validate(event)' />
+            <br />
+            <div style="float: right;">
+                @*<input type="button" id="btnStep2" value="Next"  class="greenBtn" />*@
+                <button id="btnStep2" class="greenBtn">
+                    <span>Next</span>
+                </button>
+            </div>
+
+        </div>
+        <div id="tabs-3">
+            <h2>Summary</h2>
+            <ul id="summary">
+                <li>HydroServer URL: <span id="summary10"></span></li>
+                <li>Seed: <span id="summary11"></span></li>
+                <li>Random Site Name: <span id="summary1"></span></li>
+                <li>Random Site Code: <span id="summary2"></span></li>
+                <li>Random Network Name: <span id="summary3"></span></li>
+                <li>Random Variable ID: <span id="summary4"></span></li>
+                <li>Random Variable Code: <span id="summary5"></span></li>
+                <li>Time Series Begin Date: <span id="summary6"></span></li>
+                <li>Time Series End Date: <span id="summary7"></span></li>
+                <li>Time Series Begin Date (UTC): <span id="summary8"></span></li>
+                <li>Time Series End Date (UTC): <span id="summary9"></span></li>
+            </ul>
+            <br />
+            <div style="float: right;">
+                @*<input type="button" id="btnStep3" value="Next" class="greenBtn" />*@
+                <button id="btnStep3" class="greenBtn">
+                    <span>Next</span>
+                </button>
+            </div>
+        </div>
+        <div id="tabs-4">
+            <p>A confirmation number will be printed upon successful completion of the test. You will be able to lookup an archived test result using this confirmation number.</p>
+            <p>You will also be able to lookup an archived test result using a "WSDL URL & Seed Value" pair.</p>
+            <p id="confirmation" style="display: none;">Confirmation Number: <span style="font-weight: bold;"></span></p>
+            <br />
+            <div style="float: right;">
+                @*<input type="button" id="btnStep4" value="Run" />*@
+                <button id="btnStep4" class="greenBtn">
+                    <span>Run</span>
+                </button>
+            </div>
+        </div>
+        <div id="tabs-5">
+            <p>To compare a specific test result to a previously archived result, you may perform a lookup in one of two ways:</p>
+
+            <button id="lookup1">Lookup by WSDL URL and Seed Value</button>
+            <button id="lookup2">Lookup by Confirmation Number</button>
+
+            <div id="divLookup1" style="display: none;">
+                WSDL URL:
+                <input style="width: 700px;" type="text" id="lookup1textbox1" />
+                <br />
+                Seed Value:
+                <input type="text" id="lookup1textbox2" />
+            </div>
+            <div id="divLookup2" style="display: none;">
+                Confirmation Number:
+                <input style="width: 400px;" type="text" id="lookup2textbox1" />
+            </div>
+            <div id="btnCompare" style="display: none; float: right;">
+                @*<input type="button" id="btnStep5" value="Compare" class="greenBtn" />*@
+                <button id="btnStep5" class="greenBtn">
+                    <span>Compare</span>
+                </button>
+            </div>
+        </div>
+    </div>
+    <div id="global-notifications">
+        asdhoai shdoai dshaos dihoasdihaosdihaosidhasofi sdfsaj dofdisgjf
+    </div>
+</div>
+

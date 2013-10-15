@@ -1,0 +1,140 @@
+Some links that may resolve the problem in the code.
+
+Error message when you create a trusted data connection from ASP.NET to SQL Server:
+ "Login failed for user: 'AccountName'"
+
+Resolution
+http://support.microsoft.com/kb/316989
+
+
+http://msdn.microsoft.com/en-us/library/ff647396.aspx
+
+
+http://social.msdn.microsoft.com/Forums/sqlserver/en-US/b32c862a-799c-43c4-a731-c4811078c8bd/cannot-open-user-default-database-error-4064
+
+
+http://forums.asp.net/t/1885422.aspx/1
+
+
+MVC 4 Example
+
+http://weblogs.asp.net/jgalloway/archive/2012/08/29/simplemembership-membership-providers-universal-providers-and-the-new-asp-net-4-5-web-forms-and-asp-net-mvc-4-templates.aspx
+
+Work around for Membership Problem
+
+
+Stackoverflow
+
+http://stackoverflow.com/questions/12435252/how-to-create-custom-additional-fields-in-userprofile-in-mvc4/12461447#12461447
+
+Tried this at work!!
+net-mvc-simple-membership-authentication-with-database
+
+http://weblogs.asp.net/jgalloway/archive/2012/08/29/simplemembership-membership-providers-universal-providers-and-the-new-asp-net-4-5-web-forms-and-asp-net-mvc-4-templates.aspx
+
+
+
+On Tue, Aug 20, 2013 at 7:58 PM, marie martin <mmartinmass@gmail.com> wrote:
+1.  Please join my meeting.
+https://global.gotomeeting.com/join/928201117
+
+2.  Use your microphone and speakers (VoIP) - a headset is recommended.  Or, call in using your telephone.
+
+Dial +1 (312) 878-3081
+Access Code: 928-201-117
+Audio PIN: Shown after joining the meeting
+
+Meeting ID: 928-201-117
+
+GoToMeeting® 
+Online Meetings Made Easy®
+
+
+On Tue, Aug 20, 2013 at 7:30 PM, Ash <a_s_h_i_s_h_2_5@yahoo.com> wrote:
+Hey Marie,
+
+I got invited to go out tonight too. . . .so lets start at 8 and figure it out quickly tonight. 
+
+From: marie martin <mmartinmass@gmail.com>
+To: Ashish Anand <a_s_h_i_s_h_2_5@yahoo.com> 
+Sent: Tuesday, August 20, 2013 4:43 PM
+
+Subject: Re: tonight's url
+
+7:30 or 8:00
+ 
+Marie
+
+
+On Tue, Aug 20, 2013 at 3:56 PM, Ashish Anand <a_s_h_i_s_h_2_5@yahoo.com> wrote:
+Okay, what time is the earliest you want  to start at? 
+
+Sent from my iPhone5
+
+On Aug 20, 2013, at 3:50 PM, marie martin <mmartinmass@gmail.com> wrote:
+
+Hi Ash,
+
+I was not able to load the project today.  I could not fix the errors.  Most were config file errors.  I would like to meet tonight to fix those errors and get the project to load.  I am only free tonight until 9:45 p.m.  So even if it is only a short meeting for half hour or one hour that will be fine until another day.  Let me know.
+
+Thank you,
+
+Marie
+
+
+On Mon, Aug 19, 2013 at 11:54 PM, Ash <a_s_h_i_s_h_2_5@yahoo.com> wrote:
+wallodex.com/personal/Marie/20130819WaterOneFlowTester.zip
+
+
+
+From: marie martin <mmartinmass@gmail.com>
+To: Ash <a_s_h_i_s_h_2_5@yahoo.com> 
+Sent: Monday, August 19, 2013 10:53 PM
+Subject: Re: tonight's url
+
+http://www.asp.net/web-api/overview/security/external-authentication-services
+
+
+On Mon, Aug 19, 2013 at 9:39 PM, marie martin <mmartinmass@gmail.com> wrote:
+I see u but I don't hear you
+
+
+
+On Mon, Aug 19, 2013 at 9:36 PM, marie martin <mmartinmass@gmail.com> wrote:
+1.  Please join my meeting.
+https://global.gotomeeting.com/join/554186757
+
+2.  Use your microphone and speakers (VoIP) - a headset is recommended.  Or, call in using your telephone.
+
+Dial +1 (626) 521-0014
+Access Code: 554-186-757
+Audio PIN: Shown after joining the meeting
+
+Meeting ID: 554-186-757
+
+GoToMeeting® 
+Online Meetings Made Easy®
+
+
+On Mon, Aug 19, 2013 at 9:15 PM, marie martin <mmartinmass@gmail.com> wrote:
+Ash,
+
+I will be sending you a meeting invitation at 9:00 p.m.
+
+Marie
+
+
+On Sun, Aug 18, 2013 at 11:32 PM, Ash <a_s_h_i_s_h_2_5@yahoo.com> wrote:
+http://wallodex.com/personal/Marie/20130818WaterOneFlowTester.zip
+
+
+
+
+
+
+
+
+
+
+
+

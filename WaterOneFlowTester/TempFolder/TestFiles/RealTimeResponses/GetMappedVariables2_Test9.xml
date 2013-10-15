@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ArrayOfMappedVariable xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://hiscentral.cuahsi.org/20100205/">
+  <MappedVariable>
+    <variableName>Gage height</variableName>
+    <variableCode>SRBHOS:528</variableCode>
+    <servCode>SRBHOS</servCode>
+    <WSDL>http://eddy.ccny.cuny.edu/SRBHOS/cuahsi_1_1.asmx?WSDL</WSDL>
+    <conceptCode>12</conceptCode>
+  </MappedVariable>
+  <MappedVariable>
+    <variableName>Gage height</variableName>
+    <variableCode>SRBHOS:513</variableCode>
+    <servCode>SRBHOS</servCode>
+    <WSDL>http://eddy.ccny.cuny.edu/SRBHOS/cuahsi_1_1.asmx?WSDL</WSDL>
+    <conceptCode>12</conceptCode>
+  </MappedVariable>
+  <MappedVariable>
+    <variableName>Gage height</variableName>
+    <variableCode>SRBHOS:543</variableCode>
+    <servCode>SRBHOS</servCode>
+    <WSDL>http://eddy.ccny.cuny.edu/SRBHOS/cuahsi_1_1.asmx?WSDL</WSDL>
+    <conceptCode>19</conceptCode>
+  </MappedVariable>
+  <MappedVariable>
+    <variableName>Gage height</variableName>
+    <variableCode>SRBHOS:542</variableCode>
+    <servCode>SRBHOS</servCode>
+    <WSDL>http://eddy.ccny.cuny.edu/SRBHOS/cuahsi_1_1.asmx?WSDL</WSDL>
+    <conceptCode>12</conceptCode>
+  </MappedVariable>
+  <MappedVariable>
+    <variableName>Gage height</variableName>
+    <variableCode>SRBHOS:592</variableCode>
+    <servCode>SRBHOS</servCode>
+    <WSDL>http://eddy.ccny.cuny.edu/SRBHOS/cuahsi_1_1.asmx?WSDL</WSDL>
+    <conceptCode>12</conceptCode>
+  </MappedVariable>
+  <MappedVariable>
+    <variableName>Gage height</variableName>
+    <variableCode>SRBHOS:595</variableCode>
+    <servCode>SRBHOS</servCode>
+    <WSDL>http://eddy.ccny.cuny.edu/SRBHOS/cuahsi_1_1.asmx?WSDL</WSDL>
+    <conceptCode>12</conceptCode>
+  </MappedVariable>
+</ArrayOfMappedVariable>

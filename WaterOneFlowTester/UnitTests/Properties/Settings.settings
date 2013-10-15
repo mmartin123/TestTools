@@ -1,0 +1,12 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<SettingsFile xmlns="http://schemas.microsoft.com/VisualStudio/2004/01/settings" CurrentProfile="(Default)" GeneratedClassNamespace="UnitTests.Properties" GeneratedClassName="Settings">
+  <Profiles />
+  <Settings>
+    <Setting Name="UnitTests_org_cuahsi_hiscentral_hiscentral" Type="(Web Service URL)" Scope="Application">
+      <Value Profile="(Default)">http://hiscentral.cuahsi.org/webservices/hiscentral.asmx</Value>
+    </Setting>
+    <Setting Name="UnitTests_edu_sdsc_river_WaterOneFlow" Type="(Web Service URL)" Scope="Application">
+      <Value Profile="(Default)">http://river.sdsc.edu/wateroneflow/NWIS/DailyValues.asmx</Value>
+    </Setting>
+  </Settings>
+</SettingsFile>

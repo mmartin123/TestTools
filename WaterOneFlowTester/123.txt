@@ -1,0 +1,15 @@
+  [HttpPost]
+        //Question: We are now able to generate a test for each of the WSDL and have the code do so automatically. 
+            //[1] Is it okay to use a static seed of 0 for this automated process (for all WSDLs)? 
+            //[2] Should we be creating the 'Run All' button on the UI so that the loop can be executed by the end-user?
+            //[3] If no for [2], then should be keep the ability to run the loop internal to us, but yet dump the outcome in the archived results database?
+            //[4] If yes for [3], then is it okay to assume the seed of 0 while running 'Compare to previous' against an archive result that was AUTO-GENERATED?
+            //[5] Info: As far as the one-off URL text box goes, we are maintaining the ability to use different seeds and save the outcome in the db per seed
+            //[6] Info: We are maintaining a 'known errors' list, and so if one of those are encountered, we ignore the WSDL and proceed to process the next one
+            //[7] TODO: Finally, we need to workaround the 'Variable Not Found' error by reading variables returned in GetSinteInfo() instead of GetVariableInfo()
+
+for open Id . Save info last visited the site. 
+
+http://blogs.msdn.com/b/webdev/archive/2012/09/12/integrate-openauth-openid-with-your-existing-asp-net-application-using-universal-providers.aspx
+
+http://blogs.msdn.com/b/webdev/archive/2012/09/12/integrate-openauth-openid-with-your-existing-asp-net-application-using-universal-providers.aspx

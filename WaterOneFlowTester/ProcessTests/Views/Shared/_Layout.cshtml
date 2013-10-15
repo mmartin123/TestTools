@@ -1,0 +1,62 @@
+﻿@using System.Web.Optimization
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="utf-8" />
+    <title>@ViewBag.Title - My ASP.NET MVC Application</title>
+    <link href="~/favicon.ico" rel="shortcut icon" type="image/x-icon" />
+    <meta name="viewport" content="width=device-width" />
+    @Styles.Render("~/Content/css")
+    @Scripts.Render("~/bundles/modernizr")
+    <link rel="stylesheet" href="http://code.jquery.com/ui/1.10.3/themes/smoothness/jquery-ui.css" />
+    <script src="~/PLUGINS/json2.js"></script>
+    <link href="~/CSS/main.css" rel="stylesheet" />
+    <script src="http://code.jquery.com/jquery-1.9.1.js"></script>
+    <script src="http://code.jquery.com/ui/1.10.3/jquery-ui.js"></script>
+    <script type="text/javascript">
+        var GLOBAL_AUTHENTICATION_URL = '@Url.Content("~/Tests/PerformLogin")';
+        var GLOBAL_STARTROUTINE_URL = '@Url.Content("~/Tests/SubmitWSDLAndSeed")';
+        var GLOBAL_RUNALL_URL = '@Url.Content("~/Tests/RunAll")';
+        var GLOBAL_RUNTEST_URL = '@Url.Content("~/Tests/RunTest")';
+        var GLOBAL_COMPARETEST_URL = '@Url.Content("~/Tests/CompareTest")';
+        var summaryObject = {}; //this is the js object that contains the randomized seed, the wsdl + the properties derived by generateTest() - all of this gets sent over to runTest() as input
+        var loggedInUsername = '';  //this is the global js string that holds the authenticated username
+    </script>
+    <script src="~/JS/main.js"></script>
+</head>
+<body>
+    <header>
+        <div class="section-header">
+            <div class="logo">
+                <img src="~/IMG/cuahsi_logo_wds.jpg" />
+            </div>
+            <div id="currently-processing">
+                <img id="wait" src="~/IMG/wait.gif" />
+            </div>
+        </div>
+        <div class="content-wrapper">
+            <div class="float-left">
+                @*<p class="site-title">@Html.ActionLink("your logo here", "Index", "Home")</p>*@
+            </div>
+            <div class="float-right">
+                <section id="login">
+                    @Html.Partial("_LoginPartial")
+                </section>
+            </div>
+        </div>
+        
+    </header>
+    <div id="body">
+        @RenderSection("featured", required: false)
+        <section class="content-wrapper main-content clear-fix">
+            @RenderBody()
+        </section>
+    </div>
+    <footer>
+        
+    </footer>
+
+    @Scripts.Render("~/bundles/jquery")
+    @RenderSection("scripts", required: false)
+</body>
+</html>

@@ -1,0 +1,1303 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ArrayOfSeriesRecord xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://hiscentral.cuahsi.org/20100205/">
+  <SeriesRecord>
+    <ServCode>CIMS</ServCode>
+    <ServURL>http://eddy.ccny.cuny.edu/CIMS/cuahsi_1_1.asmx?WSDL</ServURL>
+    <location>CIMS:907O</location>
+    <VarCode>CIMS:PH</VarCode>
+    <VarName>PH CORRECTED FOR TEMPERATURE (25 DEG C)</VarName>
+    <beginDate>5/20/1958 12:00:00 AM</beginDate>
+    <endDate>5/27/1958 12:00:00 AM</endDate>
+    <ValueCount>7</ValueCount>
+    <Sitename>Chesapeake Bay</Sitename>
+    <latitude>39.121799468994141</latitude>
+    <longitude>-76.303596496582031</longitude>
+    <datatype>Sporadic</datatype>
+    <valuetype>Sample</valuetype>
+    <samplemedium>Surface Water</samplemedium>
+    <timeunits>day</timeunits>
+    <conceptKeyword>pH</conceptKeyword>
+    <genCategory />
+    <TimeSupport>0</TimeSupport>
+  </SeriesRecord>
+  <SeriesRecord>
+    <ServCode>CIMS</ServCode>
+    <ServURL>http://eddy.ccny.cuny.edu/CIMS/cuahsi_1_1.asmx?WSDL</ServURL>
+    <location>CIMS:909</location>
+    <VarCode>CIMS:PH</VarCode>
+    <VarName>PH CORRECTED FOR TEMPERATURE (25 DEG C)</VarName>
+    <beginDate>7/29/1949 12:00:00 AM</beginDate>
+    <endDate>9/25/1980 12:00:00 AM</endDate>
+    <ValueCount>440</ValueCount>
+    <Sitename>Chesapeake Bay</Sitename>
+    <latitude>39.145401000976562</latitude>
+    <longitude>-76.327499389648438</longitude>
+    <datatype>Sporadic</datatype>
+    <valuetype>Sample</valuetype>
+    <samplemedium>Surface Water</samplemedium>
+    <timeunits>day</timeunits>
+    <conceptKeyword>pH</conceptKeyword>
+    <genCategory />
+    <TimeSupport>0</TimeSupport>
+  </SeriesRecord>
+  <SeriesRecord>
+    <ServCode>CIMS</ServCode>
+    <ServURL>http://eddy.ccny.cuny.edu/CIMS/cuahsi_1_1.asmx?WSDL</ServURL>
+    <location>CIMS:909D</location>
+    <VarCode>CIMS:PH</VarCode>
+    <VarName>PH CORRECTED FOR TEMPERATURE (25 DEG C)</VarName>
+    <beginDate>5/20/1958 12:00:00 AM</beginDate>
+    <endDate>5/27/1958 12:00:00 AM</endDate>
+    <ValueCount>7</ValueCount>
+    <Sitename>Chesapeake Bay</Sitename>
+    <latitude>39.151798248291016</latitude>
+    <longitude>-76.399696350097656</longitude>
+    <datatype>Sporadic</datatype>
+    <valuetype>Sample</valuetype>
+    <samplemedium>Surface Water</samplemedium>
+    <timeunits>day</timeunits>
+    <conceptKeyword>pH</conceptKeyword>
+    <genCategory />
+    <TimeSupport>0</TimeSupport>
+  </SeriesRecord>
+  <SeriesRecord>
+    <ServCode>CIMS</ServCode>
+    <ServURL>http://eddy.ccny.cuny.edu/CIMS/cuahsi_1_1.asmx?WSDL</ServURL>
+    <location>CIMS:914S</location>
+    <VarCode>CIMS:PH</VarCode>
+    <VarName>PH CORRECTED FOR TEMPERATURE (25 DEG C)</VarName>
+    <beginDate>7/29/1949 12:00:00 AM</beginDate>
+    <endDate>9/23/1980 12:00:00 AM</endDate>
+    <ValueCount>216</ValueCount>
+    <Sitename>Chesapeake Bay</Sitename>
+    <latitude>39.236801147460938</latitude>
+    <longitude>-76.237998962402344</longitude>
+    <datatype>Sporadic</datatype>
+    <valuetype>Sample</valuetype>
+    <samplemedium>Surface Water</samplemedium>
+    <timeunits>day</timeunits>
+    <conceptKeyword>pH</conceptKeyword>
+    <genCategory />
+    <TimeSupport>0</TimeSupport>
+  </SeriesRecord>
+  <SeriesRecord>
+    <ServCode>CIMS</ServCode>
+    <ServURL>http://eddy.ccny.cuny.edu/CIMS/cuahsi_1_1.asmx?WSDL</ServURL>
+    <location>CIMS:915O</location>
+    <VarCode>CIMS:PH</VarCode>
+    <VarName>PH CORRECTED FOR TEMPERATURE (25 DEG C)</VarName>
+    <beginDate>8/19/1949 12:00:00 AM</beginDate>
+    <endDate>3/24/1959 12:00:00 AM</endDate>
+    <ValueCount>12</ValueCount>
+    <Sitename>Chesapeake Bay</Sitename>
+    <latitude>39.247299194335938</latitude>
+    <longitude>-76.301101684570312</longitude>
+    <datatype>Sporadic</datatype>
+    <valuetype>Sample</valuetype>
+    <samplemedium>Surface Water</samplemedium>
+    <timeunits>day</timeunits>
+    <conceptKeyword>pH</conceptKeyword>
+    <genCategory />
+    <TimeSupport>0</TimeSupport>
+  </SeriesRecord>
+  <SeriesRecord>
+    <ServCode>CIMS</ServCode>
+    <ServURL>http://eddy.ccny.cuny.edu/CIMS/cuahsi_1_1.asmx?WSDL</ServURL>
+    <location>CIMS:915R</location>
+    <VarCode>CIMS:PH</VarCode>
+    <VarName>PH CORRECTED FOR TEMPERATURE (25 DEG C)</VarName>
+    <beginDate>5/20/1958 12:00:00 AM</beginDate>
+    <endDate>5/27/1958 12:00:00 AM</endDate>
+    <ValueCount>6</ValueCount>
+    <Sitename>Chesapeake Bay</Sitename>
+    <latitude>39.241798400878906</latitude>
+    <longitude>-76.2426986694336</longitude>
+    <datatype>Sporadic</datatype>
+    <valuetype>Sample</valuetype>
+    <samplemedium>Surface Water</samplemedium>
+    <timeunits>day</timeunits>
+    <conceptKeyword>pH</conceptKeyword>
+    <genCategory />
+    <TimeSupport>0</TimeSupport>
+  </SeriesRecord>
+  <SeriesRecord>
+    <ServCode>CIMS</ServCode>
+    <ServURL>http://eddy.ccny.cuny.edu/CIMS/cuahsi_1_1.asmx?WSDL</ServURL>
+    <location>CIMS:919T</location>
+    <VarCode>CIMS:PH</VarCode>
+    <VarName>PH CORRECTED FOR TEMPERATURE (25 DEG C)</VarName>
+    <beginDate>7/29/1949 12:00:00 AM</beginDate>
+    <endDate>9/23/1980 12:00:00 AM</endDate>
+    <ValueCount>79</ValueCount>
+    <Sitename>Chesapeake Bay</Sitename>
+    <latitude>39.313999176025391</latitude>
+    <longitude>-76.2219009399414</longitude>
+    <datatype>Sporadic</datatype>
+    <valuetype>Sample</valuetype>
+    <samplemedium>Surface Water</samplemedium>
+    <timeunits>day</timeunits>
+    <conceptKeyword>pH</conceptKeyword>
+    <genCategory />
+    <TimeSupport>0</TimeSupport>
+  </SeriesRecord>
+  <SeriesRecord>
+    <ServCode>CIMS</ServCode>
+    <ServURL>http://eddy.ccny.cuny.edu/CIMS/cuahsi_1_1.asmx?WSDL</ServURL>
+    <location>CIMS:919U</location>
+    <VarCode>CIMS:PH</VarCode>
+    <VarName>PH CORRECTED FOR TEMPERATURE (25 DEG C)</VarName>
+    <beginDate>7/29/1949 12:00:00 AM</beginDate>
+    <endDate>3/19/1963 12:00:00 AM</endDate>
+    <ValueCount>29</ValueCount>
+    <Sitename>Chesapeake Bay</Sitename>
+    <latitude>39.314800262451172</latitude>
+    <longitude>-76.1968994140625</longitude>
+    <datatype>Sporadic</datatype>
+    <valuetype>Sample</valuetype>
+    <samplemedium>Surface Water</samplemedium>
+    <timeunits>day</timeunits>
+    <conceptKeyword>pH</conceptKeyword>
+    <genCategory />
+    <TimeSupport>0</TimeSupport>
+  </SeriesRecord>
+  <SeriesRecord>
+    <ServCode>CIMS</ServCode>
+    <ServURL>http://eddy.ccny.cuny.edu/CIMS/cuahsi_1_1.asmx?WSDL</ServURL>
+    <location>CIMS:920U</location>
+    <VarCode>CIMS:PH</VarCode>
+    <VarName>PH CORRECTED FOR TEMPERATURE (25 DEG C)</VarName>
+    <beginDate>7/26/1957 12:00:00 AM</beginDate>
+    <endDate>6/22/1966 12:00:00 AM</endDate>
+    <ValueCount>47</ValueCount>
+    <Sitename>Chesapeake Bay</Sitename>
+    <latitude>39.332000732421875</latitude>
+    <longitude>-76.191596984863281</longitude>
+    <datatype>Sporadic</datatype>
+    <valuetype>Sample</valuetype>
+    <samplemedium>Surface Water</samplemedium>
+    <timeunits>day</timeunits>
+    <conceptKeyword>pH</conceptKeyword>
+    <genCategory />
+    <TimeSupport>0</TimeSupport>
+  </SeriesRecord>
+  <SeriesRecord>
+    <ServCode>CIMS</ServCode>
+    <ServURL>http://eddy.ccny.cuny.edu/CIMS/cuahsi_1_1.asmx?WSDL</ServURL>
+    <location>CIMS:922Y</location>
+    <VarCode>CIMS:PH</VarCode>
+    <VarName>PH CORRECTED FOR TEMPERATURE (25 DEG C)</VarName>
+    <beginDate>7/29/1949 12:00:00 AM</beginDate>
+    <endDate>9/23/1980 12:00:00 AM</endDate>
+    <ValueCount>129</ValueCount>
+    <Sitename>Chesapeake Bay</Sitename>
+    <latitude>39.372299194335938</latitude>
+    <longitude>-76.128303527832031</longitude>
+    <datatype>Sporadic</datatype>
+    <valuetype>Sample</valuetype>
+    <samplemedium>Surface Water</samplemedium>
+    <timeunits>day</timeunits>
+    <conceptKeyword>pH</conceptKeyword>
+    <genCategory />
+    <TimeSupport>0</TimeSupport>
+  </SeriesRecord>
+  <SeriesRecord>
+    <ServCode>CIMS</ServCode>
+    <ServURL>http://eddy.ccny.cuny.edu/CIMS/cuahsi_1_1.asmx?WSDL</ServURL>
+    <location>CIMS:927SS</location>
+    <VarCode>CIMS:PH</VarCode>
+    <VarName>PH CORRECTED FOR TEMPERATURE (25 DEG C)</VarName>
+    <beginDate>7/28/1949 12:00:00 AM</beginDate>
+    <endDate>6/28/1973 12:00:00 AM</endDate>
+    <ValueCount>159</ValueCount>
+    <Sitename>Chesapeake Bay</Sitename>
+    <latitude>39.457099914550781</latitude>
+    <longitude>-76.015800476074219</longitude>
+    <datatype>Sporadic</datatype>
+    <valuetype>Sample</valuetype>
+    <samplemedium>Surface Water</samplemedium>
+    <timeunits>day</timeunits>
+    <conceptKeyword>pH</conceptKeyword>
+    <genCategory />
+    <TimeSupport>0</TimeSupport>
+  </SeriesRecord>
+  <SeriesRecord>
+    <ServCode>CIMS</ServCode>
+    <ServURL>http://eddy.ccny.cuny.edu/CIMS/cuahsi_1_1.asmx?WSDL</ServURL>
+    <location>CIMS:904</location>
+    <VarCode>CIMS:PH</VarCode>
+    <VarName>PH CORRECTED FOR TEMPERATURE (25 DEG C)</VarName>
+    <beginDate>7/25/1949 12:00:00 AM</beginDate>
+    <endDate>9/25/1980 12:00:00 AM</endDate>
+    <ValueCount>211</ValueCount>
+    <Sitename>Chesapeake Bay</Sitename>
+    <latitude>39.072299957275391</latitude>
+    <longitude>-76.324699401855469</longitude>
+    <datatype>Sporadic</datatype>
+    <valuetype>Sample</valuetype>
+    <samplemedium>Surface Water</samplemedium>
+    <timeunits>day</timeunits>
+    <conceptKeyword>pH</conceptKeyword>
+    <genCategory />
+    <TimeSupport>0</TimeSupport>
+  </SeriesRecord>
+  <SeriesRecord>
+    <ServCode>CIMS</ServCode>
+    <ServURL>http://eddy.ccny.cuny.edu/CIMS/cuahsi_1_1.asmx?WSDL</ServURL>
+    <location>CIMS:904B</location>
+    <VarCode>CIMS:PH</VarCode>
+    <VarName>PH CORRECTED FOR TEMPERATURE (25 DEG C)</VarName>
+    <beginDate>8/20/1949 12:00:00 AM</beginDate>
+    <endDate>9/25/1980 12:00:00 AM</endDate>
+    <ValueCount>98</ValueCount>
+    <Sitename>Chesapeake Bay</Sitename>
+    <latitude>39.072299957275391</latitude>
+    <longitude>-76.3510971069336</longitude>
+    <datatype>Sporadic</datatype>
+    <valuetype>Sample</valuetype>
+    <samplemedium>Surface Water</samplemedium>
+    <timeunits>day</timeunits>
+    <conceptKeyword>pH</conceptKeyword>
+    <genCategory />
+    <TimeSupport>0</TimeSupport>
+  </SeriesRecord>
+  <SeriesRecord>
+    <ServCode>CIMS</ServCode>
+    <ServURL>http://eddy.ccny.cuny.edu/CIMS/cuahsi_1_1.asmx?WSDL</ServURL>
+    <location>CIMS:904C</location>
+    <VarCode>CIMS:PH</VarCode>
+    <VarName>PH CORRECTED FOR TEMPERATURE (25 DEG C)</VarName>
+    <beginDate>5/20/1958 12:00:00 AM</beginDate>
+    <endDate>12/7/1960 12:00:00 AM</endDate>
+    <ValueCount>221</ValueCount>
+    <Sitename>Chesapeake Bay</Sitename>
+    <latitude>39.059600830078125</latitude>
+    <longitude>-76.3905029296875</longitude>
+    <datatype>Sporadic</datatype>
+    <valuetype>Sample</valuetype>
+    <samplemedium>Surface Water</samplemedium>
+    <timeunits>day</timeunits>
+    <conceptKeyword>pH</conceptKeyword>
+    <genCategory />
+    <TimeSupport>0</TimeSupport>
+  </SeriesRecord>
+  <SeriesRecord>
+    <ServCode>CIMS</ServCode>
+    <ServURL>http://eddy.ccny.cuny.edu/CIMS/cuahsi_1_1.asmx?WSDL</ServURL>
+    <location>CIMS:904D</location>
+    <VarCode>CIMS:PH</VarCode>
+    <VarName>PH CORRECTED FOR TEMPERATURE (25 DEG C)</VarName>
+    <beginDate>7/25/1949 12:00:00 AM</beginDate>
+    <endDate>9/25/1980 12:00:00 AM</endDate>
+    <ValueCount>346</ValueCount>
+    <Sitename>Chesapeake Bay</Sitename>
+    <latitude>39.072299957275391</latitude>
+    <longitude>-76.3927001953125</longitude>
+    <datatype>Sporadic</datatype>
+    <valuetype>Sample</valuetype>
+    <samplemedium>Surface Water</samplemedium>
+    <timeunits>day</timeunits>
+    <conceptKeyword>pH</conceptKeyword>
+    <genCategory />
+    <TimeSupport>0</TimeSupport>
+  </SeriesRecord>
+  <SeriesRecord>
+    <ServCode>CIMS</ServCode>
+    <ServURL>http://eddy.ccny.cuny.edu/CIMS/cuahsi_1_1.asmx?WSDL</ServURL>
+    <location>CIMS:904N</location>
+    <VarCode>CIMS:PH</VarCode>
+    <VarName>PH CORRECTED FOR TEMPERATURE (25 DEG C)</VarName>
+    <beginDate>5/20/1958 12:00:00 AM</beginDate>
+    <endDate>6/13/1973 12:00:00 AM</endDate>
+    <ValueCount>138</ValueCount>
+    <Sitename>Chesapeake Bay</Sitename>
+    <latitude>39.067901611328125</latitude>
+    <longitude>-76.315803527832031</longitude>
+    <datatype>Sporadic</datatype>
+    <valuetype>Sample</valuetype>
+    <samplemedium>Surface Water</samplemedium>
+    <timeunits>day</timeunits>
+    <conceptKeyword>pH</conceptKeyword>
+    <genCategory />
+    <TimeSupport>0</TimeSupport>
+  </SeriesRecord>
+  <SeriesRecord>
+    <ServCode>CIMS</ServCode>
+    <ServURL>http://eddy.ccny.cuny.edu/CIMS/cuahsi_1_1.asmx?WSDL</ServURL>
+    <location>CIMS:907N</location>
+    <VarCode>CIMS:PH</VarCode>
+    <VarName>PH CORRECTED FOR TEMPERATURE (25 DEG C)</VarName>
+    <beginDate>9/10/1957 12:00:00 AM</beginDate>
+    <endDate>8/26/1966 12:00:00 AM</endDate>
+    <ValueCount>231</ValueCount>
+    <Sitename>Chesapeake Bay</Sitename>
+    <latitude>39.1234016418457</latitude>
+    <longitude>-76.318000793457031</longitude>
+    <datatype>Sporadic</datatype>
+    <valuetype>Sample</valuetype>
+    <samplemedium>Surface Water</samplemedium>
+    <timeunits>day</timeunits>
+    <conceptKeyword>pH</conceptKeyword>
+    <genCategory />
+    <TimeSupport>0</TimeSupport>
+  </SeriesRecord>
+  <SeriesRecord>
+    <ServCode>CIMS</ServCode>
+    <ServURL>http://eddy.ccny.cuny.edu/CIMS/cuahsi_1_1.asmx?WSDL</ServURL>
+    <location>CIMS:703X</location>
+    <VarCode>CIMS:PH</VarCode>
+    <VarName>PH CORRECTED FOR TEMPERATURE (25 DEG C)</VarName>
+    <beginDate>7/23/1952 12:00:00 AM</beginDate>
+    <endDate>7/13/1965 12:00:00 AM</endDate>
+    <ValueCount>64</ValueCount>
+    <Sitename>Chesapeake Bay</Sitename>
+    <latitude>37.048500061035156</latitude>
+    <longitude>-75.9813003540039</longitude>
+    <datatype>Sporadic</datatype>
+    <valuetype>Sample</valuetype>
+    <samplemedium>Surface Water</samplemedium>
+    <timeunits>day</timeunits>
+    <conceptKeyword>pH</conceptKeyword>
+    <genCategory />
+    <TimeSupport>0</TimeSupport>
+  </SeriesRecord>
+  <SeriesRecord>
+    <ServCode>CIMS</ServCode>
+    <ServURL>http://eddy.ccny.cuny.edu/CIMS/cuahsi_1_1.asmx?WSDL</ServURL>
+    <location>CIMS:704X</location>
+    <VarCode>CIMS:PH</VarCode>
+    <VarName>PH CORRECTED FOR TEMPERATURE (25 DEG C)</VarName>
+    <beginDate>7/7/1949 12:00:00 AM</beginDate>
+    <endDate>10/2/1980 12:00:00 AM</endDate>
+    <ValueCount>140</ValueCount>
+    <Sitename>Chesapeake Bay</Sitename>
+    <latitude>37.060699462890625</latitude>
+    <longitude>-75.9813003540039</longitude>
+    <datatype>Sporadic</datatype>
+    <valuetype>Sample</valuetype>
+    <samplemedium>Surface Water</samplemedium>
+    <timeunits>day</timeunits>
+    <conceptKeyword>pH</conceptKeyword>
+    <genCategory />
+    <TimeSupport>0</TimeSupport>
+  </SeriesRecord>
+  <SeriesRecord>
+    <ServCode>CIMS</ServCode>
+    <ServURL>http://eddy.ccny.cuny.edu/CIMS/cuahsi_1_1.asmx?WSDL</ServURL>
+    <location>CIMS:705D</location>
+    <VarCode>CIMS:PH</VarCode>
+    <VarName>PH CORRECTED FOR TEMPERATURE (25 DEG C)</VarName>
+    <beginDate>7/5/1949 12:00:00 AM</beginDate>
+    <endDate>7/14/1965 12:00:00 AM</endDate>
+    <ValueCount>53</ValueCount>
+    <Sitename>Chesapeake Bay</Sitename>
+    <latitude>37.087600708007812</latitude>
+    <longitude>-76.2343978881836</longitude>
+    <datatype>Sporadic</datatype>
+    <valuetype>Sample</valuetype>
+    <samplemedium>Surface Water</samplemedium>
+    <timeunits>day</timeunits>
+    <conceptKeyword>pH</conceptKeyword>
+    <genCategory />
+    <TimeSupport>0</TimeSupport>
+  </SeriesRecord>
+  <SeriesRecord>
+    <ServCode>CIMS</ServCode>
+    <ServURL>http://eddy.ccny.cuny.edu/CIMS/cuahsi_1_1.asmx?WSDL</ServURL>
+    <location>CIMS:706A</location>
+    <VarCode>CIMS:PH</VarCode>
+    <VarName>PH CORRECTED FOR TEMPERATURE (25 DEG C)</VarName>
+    <beginDate>7/5/1949 12:00:00 AM</beginDate>
+    <endDate>8/5/1962 12:00:00 AM</endDate>
+    <ValueCount>58</ValueCount>
+    <Sitename>Chesapeake Bay</Sitename>
+    <latitude>37.104000091552734</latitude>
+    <longitude>-76.184898376464844</longitude>
+    <datatype>Sporadic</datatype>
+    <valuetype>Sample</valuetype>
+    <samplemedium>Surface Water</samplemedium>
+    <timeunits>day</timeunits>
+    <conceptKeyword>pH</conceptKeyword>
+    <genCategory />
+    <TimeSupport>0</TimeSupport>
+  </SeriesRecord>
+  <SeriesRecord>
+    <ServCode>CIMS</ServCode>
+    <ServURL>http://eddy.ccny.cuny.edu/CIMS/cuahsi_1_1.asmx?WSDL</ServURL>
+    <location>CIMS:707O</location>
+    <VarCode>CIMS:PH</VarCode>
+    <VarName>PH CORRECTED FOR TEMPERATURE (25 DEG C)</VarName>
+    <beginDate>7/5/1949 12:00:00 AM</beginDate>
+    <endDate>10/2/1980 12:00:00 AM</endDate>
+    <ValueCount>410</ValueCount>
+    <Sitename>Chesapeake Bay</Sitename>
+    <latitude>37.119300842285156</latitude>
+    <longitude>-76.125198364257812</longitude>
+    <datatype>Sporadic</datatype>
+    <valuetype>Sample</valuetype>
+    <samplemedium>Surface Water</samplemedium>
+    <timeunits>day</timeunits>
+    <conceptKeyword>pH</conceptKeyword>
+    <genCategory />
+    <TimeSupport>0</TimeSupport>
+  </SeriesRecord>
+  <SeriesRecord>
+    <ServCode>CIMS</ServCode>
+    <ServURL>http://eddy.ccny.cuny.edu/CIMS/cuahsi_1_1.asmx?WSDL</ServURL>
+    <location>CIMS:708S</location>
+    <VarCode>CIMS:PH</VarCode>
+    <VarName>PH CORRECTED FOR TEMPERATURE (25 DEG C)</VarName>
+    <beginDate>10/21/1949 12:00:00 AM</beginDate>
+    <endDate>8/5/1962 12:00:00 AM</endDate>
+    <ValueCount>45</ValueCount>
+    <Sitename>Chesapeake Bay</Sitename>
+    <latitude>37.134300231933594</latitude>
+    <longitude>-76.072402954101562</longitude>
+    <datatype>Sporadic</datatype>
+    <valuetype>Sample</valuetype>
+    <samplemedium>Surface Water</samplemedium>
+    <timeunits>day</timeunits>
+    <conceptKeyword>pH</conceptKeyword>
+    <genCategory />
+    <TimeSupport>0</TimeSupport>
+  </SeriesRecord>
+  <SeriesRecord>
+    <ServCode>CIMS</ServCode>
+    <ServURL>http://eddy.ccny.cuny.edu/CIMS/cuahsi_1_1.asmx?WSDL</ServURL>
+    <location>CIMS:709V</location>
+    <VarCode>CIMS:PH</VarCode>
+    <VarName>PH CORRECTED FOR TEMPERATURE (25 DEG C)</VarName>
+    <beginDate>7/5/1949 12:00:00 AM</beginDate>
+    <endDate>7/14/1965 12:00:00 AM</endDate>
+    <ValueCount>53</ValueCount>
+    <Sitename>Chesapeake Bay</Sitename>
+    <latitude>37.148998260498047</latitude>
+    <longitude>-76.023002624511719</longitude>
+    <datatype>Sporadic</datatype>
+    <valuetype>Sample</valuetype>
+    <samplemedium>Surface Water</samplemedium>
+    <timeunits>day</timeunits>
+    <conceptKeyword>pH</conceptKeyword>
+    <genCategory />
+    <TimeSupport>0</TimeSupport>
+  </SeriesRecord>
+  <SeriesRecord>
+    <ServCode>CIMS</ServCode>
+    <ServURL>http://eddy.ccny.cuny.edu/CIMS/cuahsi_1_1.asmx?WSDL</ServURL>
+    <location>CIMS:712F</location>
+    <VarCode>CIMS:PH</VarCode>
+    <VarName>PH CORRECTED FOR TEMPERATURE (25 DEG C)</VarName>
+    <beginDate>7/4/1949 12:00:00 AM</beginDate>
+    <endDate>4/7/1961 12:00:00 AM</endDate>
+    <ValueCount>68</ValueCount>
+    <Sitename>Chesapeake Bay</Sitename>
+    <latitude>37.198799133300781</latitude>
+    <longitude>-76.270500183105469</longitude>
+    <datatype>Sporadic</datatype>
+    <valuetype>Sample</valuetype>
+    <samplemedium>Surface Water</samplemedium>
+    <timeunits>day</timeunits>
+    <conceptKeyword>pH</conceptKeyword>
+    <genCategory />
+    <TimeSupport>0</TimeSupport>
+  </SeriesRecord>
+  <SeriesRecord>
+    <ServCode>CIMS</ServCode>
+    <ServURL>http://eddy.ccny.cuny.edu/CIMS/cuahsi_1_1.asmx?WSDL</ServURL>
+    <location>CIMS:723</location>
+    <VarCode>CIMS:PH</VarCode>
+    <VarName>PH CORRECTED FOR TEMPERATURE (25 DEG C)</VarName>
+    <beginDate>8/25/1949 12:00:00 AM</beginDate>
+    <endDate>8/4/1962 12:00:00 AM</endDate>
+    <ValueCount>93</ValueCount>
+    <Sitename>Chesapeake Bay</Sitename>
+    <latitude>37.390998840332031</latitude>
+    <longitude>-76.161102294921875</longitude>
+    <datatype>Sporadic</datatype>
+    <valuetype>Sample</valuetype>
+    <samplemedium>Surface Water</samplemedium>
+    <timeunits>day</timeunits>
+    <conceptKeyword>pH</conceptKeyword>
+    <genCategory />
+    <TimeSupport>0</TimeSupport>
+  </SeriesRecord>
+  <SeriesRecord>
+    <ServCode>CIMS</ServCode>
+    <ServURL>http://eddy.ccny.cuny.edu/CIMS/cuahsi_1_1.asmx?WSDL</ServURL>
+    <location>CIMS:723B</location>
+    <VarCode>CIMS:PH</VarCode>
+    <VarName>PH CORRECTED FOR TEMPERATURE (25 DEG C)</VarName>
+    <beginDate>7/2/1949 12:00:00 AM</beginDate>
+    <endDate>7/15/1965 12:00:00 AM</endDate>
+    <ValueCount>63</ValueCount>
+    <Sitename>Chesapeake Bay</Sitename>
+    <latitude>37.388500213623047</latitude>
+    <longitude>-76.203598022460938</longitude>
+    <datatype>Sporadic</datatype>
+    <valuetype>Sample</valuetype>
+    <samplemedium>Surface Water</samplemedium>
+    <timeunits>day</timeunits>
+    <conceptKeyword>pH</conceptKeyword>
+    <genCategory />
+    <TimeSupport>0</TimeSupport>
+  </SeriesRecord>
+  <SeriesRecord>
+    <ServCode>CIMS</ServCode>
+    <ServURL>http://eddy.ccny.cuny.edu/CIMS/cuahsi_1_1.asmx?WSDL</ServURL>
+    <location>CIMS:724P</location>
+    <VarCode>CIMS:PH</VarCode>
+    <VarName>PH CORRECTED FOR TEMPERATURE (25 DEG C)</VarName>
+    <beginDate>7/2/1949 12:00:00 AM</beginDate>
+    <endDate>5/6/1964 12:00:00 AM</endDate>
+    <ValueCount>137</ValueCount>
+    <Sitename>Chesapeake Bay</Sitename>
+    <latitude>37.391799926757812</latitude>
+    <longitude>-76.120498657226562</longitude>
+    <datatype>Sporadic</datatype>
+    <valuetype>Sample</valuetype>
+    <samplemedium>Surface Water</samplemedium>
+    <timeunits>day</timeunits>
+    <conceptKeyword>pH</conceptKeyword>
+    <genCategory />
+    <TimeSupport>0</TimeSupport>
+  </SeriesRecord>
+  <SeriesRecord>
+    <ServCode>CIMS</ServCode>
+    <ServURL>http://eddy.ccny.cuny.edu/CIMS/cuahsi_1_1.asmx?WSDL</ServURL>
+    <location>CIMS:724R</location>
+    <VarCode>CIMS:PH</VarCode>
+    <VarName>PH CORRECTED FOR TEMPERATURE (25 DEG C)</VarName>
+    <beginDate>7/2/1949 12:00:00 AM</beginDate>
+    <endDate>10/2/1980 12:00:00 AM</endDate>
+    <ValueCount>507</ValueCount>
+    <Sitename>Chesapeake Bay</Sitename>
+    <latitude>37.393699645996094</latitude>
+    <longitude>-76.076301574707031</longitude>
+    <datatype>Sporadic</datatype>
+    <valuetype>Sample</valuetype>
+    <samplemedium>Surface Water</samplemedium>
+    <timeunits>day</timeunits>
+    <conceptKeyword>pH</conceptKeyword>
+    <genCategory />
+    <TimeSupport>0</TimeSupport>
+  </SeriesRecord>
+  <SeriesRecord>
+    <ServCode>CIMS</ServCode>
+    <ServURL>http://eddy.ccny.cuny.edu/CIMS/cuahsi_1_1.asmx?WSDL</ServURL>
+    <location>CIMS:724U</location>
+    <VarCode>CIMS:PH</VarCode>
+    <VarName>PH CORRECTED FOR TEMPERATURE (25 DEG C)</VarName>
+    <beginDate>7/2/1949 12:00:00 AM</beginDate>
+    <endDate>7/15/1965 12:00:00 AM</endDate>
+    <ValueCount>95</ValueCount>
+    <Sitename>Chesapeake Bay</Sitename>
+    <latitude>37.395698547363281</latitude>
+    <longitude>-76.032997131347656</longitude>
+    <datatype>Sporadic</datatype>
+    <valuetype>Sample</valuetype>
+    <samplemedium>Surface Water</samplemedium>
+    <timeunits>day</timeunits>
+    <conceptKeyword>pH</conceptKeyword>
+    <genCategory />
+    <TimeSupport>0</TimeSupport>
+  </SeriesRecord>
+  <SeriesRecord>
+    <ServCode>CIMS</ServCode>
+    <ServURL>http://eddy.ccny.cuny.edu/CIMS/cuahsi_1_1.asmx?WSDL</ServURL>
+    <location>CIMS:732A</location>
+    <VarCode>CIMS:PH</VarCode>
+    <VarName>PH CORRECTED FOR TEMPERATURE (25 DEG C)</VarName>
+    <beginDate>4/20/1950 12:00:00 AM</beginDate>
+    <endDate>4/17/1959 12:00:00 AM</endDate>
+    <ValueCount>17</ValueCount>
+    <Sitename>Chesapeake Bay</Sitename>
+    <latitude>37.54119873046875</latitude>
+    <longitude>-76.189903259277344</longitude>
+    <datatype>Sporadic</datatype>
+    <valuetype>Sample</valuetype>
+    <samplemedium>Surface Water</samplemedium>
+    <timeunits>day</timeunits>
+    <conceptKeyword>pH</conceptKeyword>
+    <genCategory />
+    <TimeSupport>0</TimeSupport>
+  </SeriesRecord>
+  <SeriesRecord>
+    <ServCode>CIMS</ServCode>
+    <ServURL>http://eddy.ccny.cuny.edu/CIMS/cuahsi_1_1.asmx?WSDL</ServURL>
+    <location>CIMS:848E</location>
+    <VarCode>CIMS:PH</VarCode>
+    <VarName>PH CORRECTED FOR TEMPERATURE (25 DEG C)</VarName>
+    <beginDate>7/26/1949 12:00:00 AM</beginDate>
+    <endDate>9/29/1980 12:00:00 AM</endDate>
+    <ValueCount>644</ValueCount>
+    <Sitename>Chesapeake Bay</Sitename>
+    <latitude>38.804298400878906</latitude>
+    <longitude>-76.410797119140625</longitude>
+    <datatype>Sporadic</datatype>
+    <valuetype>Sample</valuetype>
+    <samplemedium>Surface Water</samplemedium>
+    <timeunits>day</timeunits>
+    <conceptKeyword>pH</conceptKeyword>
+    <genCategory />
+    <TimeSupport>0</TimeSupport>
+  </SeriesRecord>
+  <SeriesRecord>
+    <ServCode>CIMS</ServCode>
+    <ServURL>http://eddy.ccny.cuny.edu/CIMS/cuahsi_1_1.asmx?WSDL</ServURL>
+    <location>CIMS:848G</location>
+    <VarCode>CIMS:PH</VarCode>
+    <VarName>PH CORRECTED FOR TEMPERATURE (25 DEG C)</VarName>
+    <beginDate>7/24/1957 12:00:00 AM</beginDate>
+    <endDate>5/6/1964 12:00:00 AM</endDate>
+    <ValueCount>116</ValueCount>
+    <Sitename>Chesapeake Bay</Sitename>
+    <latitude>38.797298431396484</latitude>
+    <longitude>-76.442703247070312</longitude>
+    <datatype>Sporadic</datatype>
+    <valuetype>Sample</valuetype>
+    <samplemedium>Surface Water</samplemedium>
+    <timeunits>day</timeunits>
+    <conceptKeyword>pH</conceptKeyword>
+    <genCategory />
+    <TimeSupport>0</TimeSupport>
+  </SeriesRecord>
+  <SeriesRecord>
+    <ServCode>CIMS</ServCode>
+    <ServURL>http://eddy.ccny.cuny.edu/CIMS/cuahsi_1_1.asmx?WSDL</ServURL>
+    <location>CIMS:848H</location>
+    <VarCode>CIMS:PH</VarCode>
+    <VarName>PH CORRECTED FOR TEMPERATURE (25 DEG C)</VarName>
+    <beginDate>8/22/1949 12:00:00 AM</beginDate>
+    <endDate>8/1/1962 12:00:00 AM</endDate>
+    <ValueCount>78</ValueCount>
+    <Sitename>Chesapeake Bay</Sitename>
+    <latitude>38.804599761962891</latitude>
+    <longitude>-76.4697036743164</longitude>
+    <datatype>Sporadic</datatype>
+    <valuetype>Sample</valuetype>
+    <samplemedium>Surface Water</samplemedium>
+    <timeunits>day</timeunits>
+    <conceptKeyword>pH</conceptKeyword>
+    <genCategory />
+    <TimeSupport>0</TimeSupport>
+  </SeriesRecord>
+  <SeriesRecord>
+    <ServCode>CIMS</ServCode>
+    <ServURL>http://eddy.ccny.cuny.edu/CIMS/cuahsi_1_1.asmx?WSDL</ServURL>
+    <location>CIMS:848I</location>
+    <VarCode>CIMS:PH</VarCode>
+    <VarName>PH CORRECTED FOR TEMPERATURE (25 DEG C)</VarName>
+    <beginDate>7/30/1949 12:00:00 AM</beginDate>
+    <endDate>8/1/1962 12:00:00 AM</endDate>
+    <ValueCount>54</ValueCount>
+    <Sitename>Chesapeake Bay</Sitename>
+    <latitude>38.807300567626953</latitude>
+    <longitude>-76.4791030883789</longitude>
+    <datatype>Sporadic</datatype>
+    <valuetype>Sample</valuetype>
+    <samplemedium>Surface Water</samplemedium>
+    <timeunits>day</timeunits>
+    <conceptKeyword>pH</conceptKeyword>
+    <genCategory />
+    <TimeSupport>0</TimeSupport>
+  </SeriesRecord>
+  <SeriesRecord>
+    <ServCode>CIMS</ServCode>
+    <ServURL>http://eddy.ccny.cuny.edu/CIMS/cuahsi_1_1.asmx?WSDL</ServURL>
+    <location>CIMS:850D</location>
+    <VarCode>CIMS:PH</VarCode>
+    <VarName>PH CORRECTED FOR TEMPERATURE (25 DEG C)</VarName>
+    <beginDate>7/30/1949 12:00:00 AM</beginDate>
+    <endDate>8/15/1963 12:00:00 AM</endDate>
+    <ValueCount>74</ValueCount>
+    <Sitename>Chesapeake Bay</Sitename>
+    <latitude>38.834800720214844</latitude>
+    <longitude>-76.398002624511719</longitude>
+    <datatype>Sporadic</datatype>
+    <valuetype>Sample</valuetype>
+    <samplemedium>Surface Water</samplemedium>
+    <timeunits>day</timeunits>
+    <conceptKeyword>pH</conceptKeyword>
+    <genCategory />
+    <TimeSupport>0</TimeSupport>
+  </SeriesRecord>
+  <SeriesRecord>
+    <ServCode>CIMS</ServCode>
+    <ServURL>http://eddy.ccny.cuny.edu/CIMS/cuahsi_1_1.asmx?WSDL</ServURL>
+    <location>CIMS:854G</location>
+    <VarCode>CIMS:PH</VarCode>
+    <VarName>PH CORRECTED FOR TEMPERATURE (25 DEG C)</VarName>
+    <beginDate>9/12/1957 12:00:00 AM</beginDate>
+    <endDate>11/6/1958 12:00:00 AM</endDate>
+    <ValueCount>7</ValueCount>
+    <Sitename>Chesapeake Bay</Sitename>
+    <latitude>38.900100708007812</latitude>
+    <longitude>-76.449699401855469</longitude>
+    <datatype>Sporadic</datatype>
+    <valuetype>Sample</valuetype>
+    <samplemedium>Surface Water</samplemedium>
+    <timeunits>day</timeunits>
+    <conceptKeyword>pH</conceptKeyword>
+    <genCategory />
+    <TimeSupport>0</TimeSupport>
+  </SeriesRecord>
+  <SeriesRecord>
+    <ServCode>CIMS</ServCode>
+    <ServURL>http://eddy.ccny.cuny.edu/CIMS/cuahsi_1_1.asmx?WSDL</ServURL>
+    <location>CIMS:858C</location>
+    <VarCode>CIMS:PH</VarCode>
+    <VarName>PH CORRECTED FOR TEMPERATURE (25 DEG C)</VarName>
+    <beginDate>4/10/1950 12:00:00 AM</beginDate>
+    <endDate>9/29/1980 12:00:00 AM</endDate>
+    <ValueCount>652</ValueCount>
+    <Sitename>Chesapeake Bay</Sitename>
+    <latitude>38.962100982666016</latitude>
+    <longitude>-76.379997253417969</longitude>
+    <datatype>Sporadic</datatype>
+    <valuetype>Sample</valuetype>
+    <samplemedium>Surface Water</samplemedium>
+    <timeunits>day</timeunits>
+    <conceptKeyword>pH</conceptKeyword>
+    <genCategory />
+    <TimeSupport>0</TimeSupport>
+  </SeriesRecord>
+  <SeriesRecord>
+    <ServCode>CIMS</ServCode>
+    <ServURL>http://eddy.ccny.cuny.edu/CIMS/cuahsi_1_1.asmx?WSDL</ServURL>
+    <location>CIMS:858E</location>
+    <VarCode>CIMS:PH</VarCode>
+    <VarName>PH CORRECTED FOR TEMPERATURE (25 DEG C)</VarName>
+    <beginDate>5/20/1958 12:00:00 AM</beginDate>
+    <endDate>8/13/1963 12:00:00 AM</endDate>
+    <ValueCount>39</ValueCount>
+    <Sitename>Chesapeake Bay</Sitename>
+    <latitude>38.96820068359375</latitude>
+    <longitude>-76.413002014160156</longitude>
+    <datatype>Sporadic</datatype>
+    <valuetype>Sample</valuetype>
+    <samplemedium>Surface Water</samplemedium>
+    <timeunits>day</timeunits>
+    <conceptKeyword>pH</conceptKeyword>
+    <genCategory />
+    <TimeSupport>0</TimeSupport>
+  </SeriesRecord>
+  <SeriesRecord>
+    <ServCode>CIMS</ServCode>
+    <ServURL>http://eddy.ccny.cuny.edu/CIMS/cuahsi_1_1.asmx?WSDL</ServURL>
+    <location>CIMS:900B</location>
+    <VarCode>CIMS:PH</VarCode>
+    <VarName>PH CORRECTED FOR TEMPERATURE (25 DEG C)</VarName>
+    <beginDate>7/25/1957 12:00:00 AM</beginDate>
+    <endDate>3/20/1961 12:00:00 AM</endDate>
+    <ValueCount>54</ValueCount>
+    <Sitename>Chesapeake Bay</Sitename>
+    <latitude>38.9984016418457</latitude>
+    <longitude>-76.361297607421875</longitude>
+    <datatype>Sporadic</datatype>
+    <valuetype>Sample</valuetype>
+    <samplemedium>Surface Water</samplemedium>
+    <timeunits>day</timeunits>
+    <conceptKeyword>pH</conceptKeyword>
+    <genCategory />
+    <TimeSupport>0</TimeSupport>
+  </SeriesRecord>
+  <SeriesRecord>
+    <ServCode>CIMS</ServCode>
+    <ServURL>http://eddy.ccny.cuny.edu/CIMS/cuahsi_1_1.asmx?WSDL</ServURL>
+    <location>CIMS:656W</location>
+    <VarCode>CIMS:PH</VarCode>
+    <VarName>PH CORRECTED FOR TEMPERATURE (25 DEG C)</VarName>
+    <beginDate>7/7/1949 12:00:00 AM</beginDate>
+    <endDate>1/11/1979 12:00:00 AM</endDate>
+    <ValueCount>106</ValueCount>
+    <Sitename>Chesapeake Bay</Sitename>
+    <latitude>36.937400817871094</latitude>
+    <longitude>-76.006599426269531</longitude>
+    <datatype>Sporadic</datatype>
+    <valuetype>Sample</valuetype>
+    <samplemedium>Surface Water</samplemedium>
+    <timeunits>day</timeunits>
+    <conceptKeyword>pH</conceptKeyword>
+    <genCategory />
+    <TimeSupport>0</TimeSupport>
+  </SeriesRecord>
+  <SeriesRecord>
+    <ServCode>CIMS</ServCode>
+    <ServURL>http://eddy.ccny.cuny.edu/CIMS/cuahsi_1_1.asmx?WSDL</ServURL>
+    <location>CIMS:657W</location>
+    <VarCode>CIMS:PH</VarCode>
+    <VarName>PH CORRECTED FOR TEMPERATURE (25 DEG C)</VarName>
+    <beginDate>7/7/1949 12:00:00 AM</beginDate>
+    <endDate>10/2/1980 12:00:00 AM</endDate>
+    <ValueCount>278</ValueCount>
+    <Sitename>Chesapeake Bay</Sitename>
+    <latitude>36.958198547363281</latitude>
+    <longitude>-76.0009994506836</longitude>
+    <datatype>Sporadic</datatype>
+    <valuetype>Sample</valuetype>
+    <samplemedium>Surface Water</samplemedium>
+    <timeunits>day</timeunits>
+    <conceptKeyword>pH</conceptKeyword>
+    <genCategory />
+    <TimeSupport>0</TimeSupport>
+  </SeriesRecord>
+  <SeriesRecord>
+    <ServCode>CIMS</ServCode>
+    <ServURL>http://eddy.ccny.cuny.edu/CIMS/cuahsi_1_1.asmx?WSDL</ServURL>
+    <location>CIMS:659W</location>
+    <VarCode>CIMS:PH</VarCode>
+    <VarName>PH CORRECTED FOR TEMPERATURE (25 DEG C)</VarName>
+    <beginDate>7/7/1949 12:00:00 AM</beginDate>
+    <endDate>1/11/1979 12:00:00 AM</endDate>
+    <ValueCount>235</ValueCount>
+    <Sitename>Chesapeake Bay</Sitename>
+    <latitude>36.980098724365234</latitude>
+    <longitude>-75.996299743652344</longitude>
+    <datatype>Sporadic</datatype>
+    <valuetype>Sample</valuetype>
+    <samplemedium>Surface Water</samplemedium>
+    <timeunits>day</timeunits>
+    <conceptKeyword>pH</conceptKeyword>
+    <genCategory />
+    <TimeSupport>0</TimeSupport>
+  </SeriesRecord>
+  <SeriesRecord>
+    <ServCode>CIMS</ServCode>
+    <ServURL>http://eddy.ccny.cuny.edu/CIMS/cuahsi_1_1.asmx?WSDL</ServURL>
+    <location>CIMS:700W</location>
+    <VarCode>CIMS:PH</VarCode>
+    <VarName>PH CORRECTED FOR TEMPERATURE (25 DEG C)</VarName>
+    <beginDate>7/7/1949 12:00:00 AM</beginDate>
+    <endDate>1/11/1979 12:00:00 AM</endDate>
+    <ValueCount>78</ValueCount>
+    <Sitename>Chesapeake Bay</Sitename>
+    <latitude>37.000999450683594</latitude>
+    <longitude>-75.9926986694336</longitude>
+    <datatype>Sporadic</datatype>
+    <valuetype>Sample</valuetype>
+    <samplemedium>Surface Water</samplemedium>
+    <timeunits>day</timeunits>
+    <conceptKeyword>pH</conceptKeyword>
+    <genCategory />
+    <TimeSupport>0</TimeSupport>
+  </SeriesRecord>
+  <SeriesRecord>
+    <ServCode>CIMS</ServCode>
+    <ServURL>http://eddy.ccny.cuny.edu/CIMS/cuahsi_1_1.asmx?WSDL</ServURL>
+    <location>CIMS:701E</location>
+    <VarCode>CIMS:PH</VarCode>
+    <VarName>PH CORRECTED FOR TEMPERATURE (25 DEG C)</VarName>
+    <beginDate>7/9/1949 12:00:00 AM</beginDate>
+    <endDate>7/8/1959 12:00:00 AM</endDate>
+    <ValueCount>66</ValueCount>
+    <Sitename>Chesapeake Bay</Sitename>
+    <latitude>37.010700225830078</latitude>
+    <longitude>-76.252197265625</longitude>
+    <datatype>Sporadic</datatype>
+    <valuetype>Sample</valuetype>
+    <samplemedium>Surface Water</samplemedium>
+    <timeunits>day</timeunits>
+    <conceptKeyword>pH</conceptKeyword>
+    <genCategory />
+    <TimeSupport>0</TimeSupport>
+  </SeriesRecord>
+  <SeriesRecord>
+    <ServCode>CIMS</ServCode>
+    <ServURL>http://eddy.ccny.cuny.edu/CIMS/cuahsi_1_1.asmx?WSDL</ServURL>
+    <location>CIMS:701X</location>
+    <VarCode>CIMS:PH</VarCode>
+    <VarName>PH CORRECTED FOR TEMPERATURE (25 DEG C)</VarName>
+    <beginDate>7/7/1949 12:00:00 AM</beginDate>
+    <endDate>1/11/1979 12:00:00 AM</endDate>
+    <ValueCount>44</ValueCount>
+    <Sitename>Chesapeake Bay</Sitename>
+    <latitude>37.021800994873047</latitude>
+    <longitude>-75.9885025024414</longitude>
+    <datatype>Sporadic</datatype>
+    <valuetype>Sample</valuetype>
+    <samplemedium>Surface Water</samplemedium>
+    <timeunits>day</timeunits>
+    <conceptKeyword>pH</conceptKeyword>
+    <genCategory />
+    <TimeSupport>0</TimeSupport>
+  </SeriesRecord>
+  <SeriesRecord>
+    <ServCode>CIMS</ServCode>
+    <ServURL>http://eddy.ccny.cuny.edu/CIMS/cuahsi_1_1.asmx?WSDL</ServURL>
+    <location>CIMS:737A</location>
+    <VarCode>CIMS:PH</VarCode>
+    <VarName>PH CORRECTED FOR TEMPERATURE (25 DEG C)</VarName>
+    <beginDate>7/2/1949 12:00:00 AM</beginDate>
+    <endDate>11/12/1966 12:00:00 AM</endDate>
+    <ValueCount>40</ValueCount>
+    <Sitename>Chesapeake Bay</Sitename>
+    <latitude>37.619598388671875</latitude>
+    <longitude>-76.189903259277344</longitude>
+    <datatype>Sporadic</datatype>
+    <valuetype>Sample</valuetype>
+    <samplemedium>Surface Water</samplemedium>
+    <timeunits>day</timeunits>
+    <conceptKeyword>pH</conceptKeyword>
+    <genCategory />
+    <TimeSupport>0</TimeSupport>
+  </SeriesRecord>
+  <SeriesRecord>
+    <ServCode>CIMS</ServCode>
+    <ServURL>http://eddy.ccny.cuny.edu/CIMS/cuahsi_1_1.asmx?WSDL</ServURL>
+    <location>CIMS:744OO</location>
+    <VarCode>CIMS:PH</VarCode>
+    <VarName>PH CORRECTED FOR TEMPERATURE (25 DEG C)</VarName>
+    <beginDate>10/23/1949 12:00:00 AM</beginDate>
+    <endDate>10/1/1980 12:00:00 AM</endDate>
+    <ValueCount>119</ValueCount>
+    <Sitename>Chesapeake Bay</Sitename>
+    <latitude>37.735099792480469</latitude>
+    <longitude>-75.911300659179688</longitude>
+    <datatype>Sporadic</datatype>
+    <valuetype>Sample</valuetype>
+    <samplemedium>Surface Water</samplemedium>
+    <timeunits>day</timeunits>
+    <conceptKeyword>pH</conceptKeyword>
+    <genCategory />
+    <TimeSupport>0</TimeSupport>
+  </SeriesRecord>
+  <SeriesRecord>
+    <ServCode>CIMS</ServCode>
+    <ServURL>http://eddy.ccny.cuny.edu/CIMS/cuahsi_1_1.asmx?WSDL</ServURL>
+    <location>CIMS:745</location>
+    <VarCode>CIMS:PH</VarCode>
+    <VarName>PH CORRECTED FOR TEMPERATURE (25 DEG C)</VarName>
+    <beginDate>7/10/1949 12:00:00 AM</beginDate>
+    <endDate>11/7/1974 12:00:00 AM</endDate>
+    <ValueCount>322</ValueCount>
+    <Sitename>Chesapeake Bay</Sitename>
+    <latitude>37.741798400878906</latitude>
+    <longitude>-76.171600341796875</longitude>
+    <datatype>Sporadic</datatype>
+    <valuetype>Sample</valuetype>
+    <samplemedium>Surface Water</samplemedium>
+    <timeunits>day</timeunits>
+    <conceptKeyword>pH</conceptKeyword>
+    <genCategory />
+    <TimeSupport>0</TimeSupport>
+  </SeriesRecord>
+  <SeriesRecord>
+    <ServCode>CIMS</ServCode>
+    <ServURL>http://eddy.ccny.cuny.edu/CIMS/cuahsi_1_1.asmx?WSDL</ServURL>
+    <location>CIMS:745B</location>
+    <VarCode>CIMS:PH</VarCode>
+    <VarName>PH CORRECTED FOR TEMPERATURE (25 DEG C)</VarName>
+    <beginDate>7/10/1949 12:00:00 AM</beginDate>
+    <endDate>7/16/1965 12:00:00 AM</endDate>
+    <ValueCount>133</ValueCount>
+    <Sitename>Chesapeake Bay</Sitename>
+    <latitude>37.741798400878906</latitude>
+    <longitude>-76.206298828125</longitude>
+    <datatype>Sporadic</datatype>
+    <valuetype>Sample</valuetype>
+    <samplemedium>Surface Water</samplemedium>
+    <timeunits>day</timeunits>
+    <conceptKeyword>pH</conceptKeyword>
+    <genCategory />
+    <TimeSupport>0</TimeSupport>
+  </SeriesRecord>
+  <SeriesRecord>
+    <ServCode>CIMS</ServCode>
+    <ServURL>http://eddy.ccny.cuny.edu/CIMS/cuahsi_1_1.asmx?WSDL</ServURL>
+    <location>CIMS:745D</location>
+    <VarCode>CIMS:PH</VarCode>
+    <VarName>PH CORRECTED FOR TEMPERATURE (25 DEG C)</VarName>
+    <beginDate>7/10/1949 12:00:00 AM</beginDate>
+    <endDate>10/1/1980 12:00:00 AM</endDate>
+    <ValueCount>84</ValueCount>
+    <Sitename>Chesapeake Bay</Sitename>
+    <latitude>37.741798400878906</latitude>
+    <longitude>-76.239700317382812</longitude>
+    <datatype>Sporadic</datatype>
+    <valuetype>Sample</valuetype>
+    <samplemedium>Surface Water</samplemedium>
+    <timeunits>day</timeunits>
+    <conceptKeyword>pH</conceptKeyword>
+    <genCategory />
+    <TimeSupport>0</TimeSupport>
+  </SeriesRecord>
+  <SeriesRecord>
+    <ServCode>CIMS</ServCode>
+    <ServURL>http://eddy.ccny.cuny.edu/CIMS/cuahsi_1_1.asmx?WSDL</ServURL>
+    <location>CIMS:745P</location>
+    <VarCode>CIMS:PH</VarCode>
+    <VarName>PH CORRECTED FOR TEMPERATURE (25 DEG C)</VarName>
+    <beginDate>7/10/1949 12:00:00 AM</beginDate>
+    <endDate>10/1/1980 12:00:00 AM</endDate>
+    <ValueCount>89</ValueCount>
+    <Sitename>Chesapeake Bay</Sitename>
+    <latitude>37.741798400878906</latitude>
+    <longitude>-76.112998962402344</longitude>
+    <datatype>Sporadic</datatype>
+    <valuetype>Sample</valuetype>
+    <samplemedium>Surface Water</samplemedium>
+    <timeunits>day</timeunits>
+    <conceptKeyword>pH</conceptKeyword>
+    <genCategory />
+    <TimeSupport>0</TimeSupport>
+  </SeriesRecord>
+  <SeriesRecord>
+    <ServCode>CIMS</ServCode>
+    <ServURL>http://eddy.ccny.cuny.edu/CIMS/cuahsi_1_1.asmx?WSDL</ServURL>
+    <location>CIMS:745S</location>
+    <VarCode>CIMS:PH</VarCode>
+    <VarName>PH CORRECTED FOR TEMPERATURE (25 DEG C)</VarName>
+    <beginDate>7/10/1949 12:00:00 AM</beginDate>
+    <endDate>10/1/1980 12:00:00 AM</endDate>
+    <ValueCount>81</ValueCount>
+    <Sitename>Chesapeake Bay</Sitename>
+    <latitude>37.741798400878906</latitude>
+    <longitude>-76.058601379394531</longitude>
+    <datatype>Sporadic</datatype>
+    <valuetype>Sample</valuetype>
+    <samplemedium>Surface Water</samplemedium>
+    <timeunits>day</timeunits>
+    <conceptKeyword>pH</conceptKeyword>
+    <genCategory />
+    <TimeSupport>0</TimeSupport>
+  </SeriesRecord>
+  <SeriesRecord>
+    <ServCode>CIMS</ServCode>
+    <ServURL>http://eddy.ccny.cuny.edu/CIMS/cuahsi_1_1.asmx?WSDL</ServURL>
+    <location>CIMS:745V</location>
+    <VarCode>CIMS:PH</VarCode>
+    <VarName>PH CORRECTED FOR TEMPERATURE (25 DEG C)</VarName>
+    <beginDate>7/10/1949 12:00:00 AM</beginDate>
+    <endDate>10/1/1980 12:00:00 AM</endDate>
+    <ValueCount>86</ValueCount>
+    <Sitename>Chesapeake Bay</Sitename>
+    <latitude>37.741798400878906</latitude>
+    <longitude>-76.009696960449219</longitude>
+    <datatype>Sporadic</datatype>
+    <valuetype>Sample</valuetype>
+    <samplemedium>Surface Water</samplemedium>
+    <timeunits>day</timeunits>
+    <conceptKeyword>pH</conceptKeyword>
+    <genCategory />
+    <TimeSupport>0</TimeSupport>
+  </SeriesRecord>
+  <SeriesRecord>
+    <ServCode>CIMS</ServCode>
+    <ServURL>http://eddy.ccny.cuny.edu/CIMS/cuahsi_1_1.asmx?WSDL</ServURL>
+    <location>CIMS:803H</location>
+    <VarCode>CIMS:PH</VarCode>
+    <VarName>PH CORRECTED FOR TEMPERATURE (25 DEG C)</VarName>
+    <beginDate>7/12/1949 12:00:00 AM</beginDate>
+    <endDate>10/1/1980 12:00:00 AM</endDate>
+    <ValueCount>80</ValueCount>
+    <Sitename>Chesapeake Bay</Sitename>
+    <latitude>38.054000854492188</latitude>
+    <longitude>-76.299102783203125</longitude>
+    <datatype>Sporadic</datatype>
+    <valuetype>Sample</valuetype>
+    <samplemedium>Surface Water</samplemedium>
+    <timeunits>day</timeunits>
+    <conceptKeyword>pH</conceptKeyword>
+    <genCategory />
+    <TimeSupport>0</TimeSupport>
+  </SeriesRecord>
+  <SeriesRecord>
+    <ServCode>CIMS</ServCode>
+    <ServURL>http://eddy.ccny.cuny.edu/CIMS/cuahsi_1_1.asmx?WSDL</ServURL>
+    <location>CIMS:804</location>
+    <VarCode>CIMS:PH</VarCode>
+    <VarName>PH CORRECTED FOR TEMPERATURE (25 DEG C)</VarName>
+    <beginDate>7/12/1949 12:00:00 AM</beginDate>
+    <endDate>10/1/1980 12:00:00 AM</endDate>
+    <ValueCount>76</ValueCount>
+    <Sitename>Chesapeake Bay</Sitename>
+    <latitude>38.070098876953125</latitude>
+    <longitude>-76.157997131347656</longitude>
+    <datatype>Sporadic</datatype>
+    <valuetype>Sample</valuetype>
+    <samplemedium>Surface Water</samplemedium>
+    <timeunits>day</timeunits>
+    <conceptKeyword>pH</conceptKeyword>
+    <genCategory />
+    <TimeSupport>0</TimeSupport>
+  </SeriesRecord>
+  <SeriesRecord>
+    <ServCode>CIMS</ServCode>
+    <ServURL>http://eddy.ccny.cuny.edu/CIMS/cuahsi_1_1.asmx?WSDL</ServURL>
+    <location>CIMS:804C</location>
+    <VarCode>CIMS:PH</VarCode>
+    <VarName>PH CORRECTED FOR TEMPERATURE (25 DEG C)</VarName>
+    <beginDate>7/12/1949 12:00:00 AM</beginDate>
+    <endDate>10/1/1980 12:00:00 AM</endDate>
+    <ValueCount>781</ValueCount>
+    <Sitename>Chesapeake Bay</Sitename>
+    <latitude>38.063999176025391</latitude>
+    <longitude>-76.2113037109375</longitude>
+    <datatype>Sporadic</datatype>
+    <valuetype>Sample</valuetype>
+    <samplemedium>Surface Water</samplemedium>
+    <timeunits>day</timeunits>
+    <conceptKeyword>pH</conceptKeyword>
+    <genCategory />
+    <TimeSupport>0</TimeSupport>
+  </SeriesRecord>
+  <SeriesRecord>
+    <ServCode>CIMS</ServCode>
+    <ServURL>http://eddy.ccny.cuny.edu/CIMS/cuahsi_1_1.asmx?WSDL</ServURL>
+    <location>CIMS:804F</location>
+    <VarCode>CIMS:PH</VarCode>
+    <VarName>PH CORRECTED FOR TEMPERATURE (25 DEG C)</VarName>
+    <beginDate>7/12/1949 12:00:00 AM</beginDate>
+    <endDate>10/1/1980 12:00:00 AM</endDate>
+    <ValueCount>176</ValueCount>
+    <Sitename>Chesapeake Bay</Sitename>
+    <latitude>38.058498382568359</latitude>
+    <longitude>-76.259696960449219</longitude>
+    <datatype>Sporadic</datatype>
+    <valuetype>Sample</valuetype>
+    <samplemedium>Surface Water</samplemedium>
+    <timeunits>day</timeunits>
+    <conceptKeyword>pH</conceptKeyword>
+    <genCategory />
+    <TimeSupport>0</TimeSupport>
+  </SeriesRecord>
+  <SeriesRecord>
+    <ServCode>CIMS</ServCode>
+    <ServURL>http://eddy.ccny.cuny.edu/CIMS/cuahsi_1_1.asmx?WSDL</ServURL>
+    <location>CIMS:818A</location>
+    <VarCode>CIMS:PH</VarCode>
+    <VarName>PH CORRECTED FOR TEMPERATURE (25 DEG C)</VarName>
+    <beginDate>8/1/1949 12:00:00 AM</beginDate>
+    <endDate>7/31/1963 12:00:00 AM</endDate>
+    <ValueCount>97</ValueCount>
+    <Sitename>Chesapeake Bay</Sitename>
+    <latitude>38.301498413085938</latitude>
+    <longitude>-76.352699279785156</longitude>
+    <datatype>Sporadic</datatype>
+    <valuetype>Sample</valuetype>
+    <samplemedium>Surface Water</samplemedium>
+    <timeunits>day</timeunits>
+    <conceptKeyword>pH</conceptKeyword>
+    <genCategory />
+    <TimeSupport>0</TimeSupport>
+  </SeriesRecord>
+  <SeriesRecord>
+    <ServCode>CIMS</ServCode>
+    <ServURL>http://eddy.ccny.cuny.edu/CIMS/cuahsi_1_1.asmx?WSDL</ServURL>
+    <location>CIMS:818N</location>
+    <VarCode>CIMS:PH</VarCode>
+    <VarName>PH CORRECTED FOR TEMPERATURE (25 DEG C)</VarName>
+    <beginDate>8/1/1949 12:00:00 AM</beginDate>
+    <endDate>5/6/1964 12:00:00 AM</endDate>
+    <ValueCount>177</ValueCount>
+    <Sitename>Chesapeake Bay</Sitename>
+    <latitude>38.3036994934082</latitude>
+    <longitude>-76.154701232910156</longitude>
+    <datatype>Sporadic</datatype>
+    <valuetype>Sample</valuetype>
+    <samplemedium>Surface Water</samplemedium>
+    <timeunits>day</timeunits>
+    <conceptKeyword>pH</conceptKeyword>
+    <genCategory />
+    <TimeSupport>0</TimeSupport>
+  </SeriesRecord>
+  <SeriesRecord>
+    <ServCode>CIMS</ServCode>
+    <ServURL>http://eddy.ccny.cuny.edu/CIMS/cuahsi_1_1.asmx?WSDL</ServURL>
+    <location>CIMS:818P</location>
+    <VarCode>CIMS:PH</VarCode>
+    <VarName>PH CORRECTED FOR TEMPERATURE (25 DEG C)</VarName>
+    <beginDate>8/1/1949 12:00:00 AM</beginDate>
+    <endDate>9/30/1980 12:00:00 AM</endDate>
+    <ValueCount>796</ValueCount>
+    <Sitename>Chesapeake Bay</Sitename>
+    <latitude>38.306499481201172</latitude>
+    <longitude>-76.289901733398438</longitude>
+    <datatype>Sporadic</datatype>
+    <valuetype>Sample</valuetype>
+    <samplemedium>Surface Water</samplemedium>
+    <timeunits>day</timeunits>
+    <conceptKeyword>pH</conceptKeyword>
+    <genCategory />
+    <TimeSupport>0</TimeSupport>
+  </SeriesRecord>
+  <SeriesRecord>
+    <ServCode>CIMS</ServCode>
+    <ServURL>http://eddy.ccny.cuny.edu/CIMS/cuahsi_1_1.asmx?WSDL</ServURL>
+    <location>CIMS:834C</location>
+    <VarCode>CIMS:PH</VarCode>
+    <VarName>PH CORRECTED FOR TEMPERATURE (25 DEG C)</VarName>
+    <beginDate>8/2/1949 12:00:00 AM</beginDate>
+    <endDate>8/2/1962 12:00:00 AM</endDate>
+    <ValueCount>119</ValueCount>
+    <Sitename>Chesapeake Bay</Sitename>
+    <latitude>38.566799163818359</latitude>
+    <longitude>-76.050201416015625</longitude>
+    <datatype>Sporadic</datatype>
+    <valuetype>Sample</valuetype>
+    <samplemedium>Surface Water</samplemedium>
+    <timeunits>day</timeunits>
+    <conceptKeyword>pH</conceptKeyword>
+    <genCategory />
+    <TimeSupport>0</TimeSupport>
+  </SeriesRecord>
+  <SeriesRecord>
+    <ServCode>CIMS</ServCode>
+    <ServURL>http://eddy.ccny.cuny.edu/CIMS/cuahsi_1_1.asmx?WSDL</ServURL>
+    <location>CIMS:834F</location>
+    <VarCode>CIMS:PH</VarCode>
+    <VarName>PH CORRECTED FOR TEMPERATURE (25 DEG C)</VarName>
+    <beginDate>8/2/1949 12:00:00 AM</beginDate>
+    <endDate>9/29/1980 12:00:00 AM</endDate>
+    <ValueCount>615</ValueCount>
+    <Sitename>Chesapeake Bay</Sitename>
+    <latitude>38.559299468994141</latitude>
+    <longitude>-76.4363021850586</longitude>
+    <datatype>Sporadic</datatype>
+    <valuetype>Sample</valuetype>
+    <samplemedium>Surface Water</samplemedium>
+    <timeunits>day</timeunits>
+    <conceptKeyword>pH</conceptKeyword>
+    <genCategory />
+    <TimeSupport>0</TimeSupport>
+  </SeriesRecord>
+  <SeriesRecord>
+    <ServCode>CIMS</ServCode>
+    <ServURL>http://eddy.ccny.cuny.edu/CIMS/cuahsi_1_1.asmx?WSDL</ServURL>
+    <location>CIMS:834H</location>
+    <VarCode>CIMS:PH</VarCode>
+    <VarName>PH CORRECTED FOR TEMPERATURE (25 DEG C)</VarName>
+    <beginDate>8/2/1949 12:00:00 AM</beginDate>
+    <endDate>8/2/1962 12:00:00 AM</endDate>
+    <ValueCount>89</ValueCount>
+    <Sitename>Chesapeake Bay</Sitename>
+    <latitude>38.562599182128906</latitude>
+    <longitude>-76.462196350097656</longitude>
+    <datatype>Sporadic</datatype>
+    <valuetype>Sample</valuetype>
+    <samplemedium>Surface Water</samplemedium>
+    <timeunits>day</timeunits>
+    <conceptKeyword>pH</conceptKeyword>
+    <genCategory />
+    <TimeSupport>0</TimeSupport>
+  </SeriesRecord>
+  <SeriesRecord>
+    <ServCode>CIMS</ServCode>
+    <ServURL>http://eddy.ccny.cuny.edu/CIMS/cuahsi_1_1.asmx?WSDL</ServURL>
+    <location>CIMS:834J</location>
+    <VarCode>CIMS:PH</VarCode>
+    <VarName>PH CORRECTED FOR TEMPERATURE (25 DEG C)</VarName>
+    <beginDate>8/2/1949 12:00:00 AM</beginDate>
+    <endDate>8/2/1962 12:00:00 AM</endDate>
+    <ValueCount>73</ValueCount>
+    <Sitename>Chesapeake Bay</Sitename>
+    <latitude>38.566799163818359</latitude>
+    <longitude>-76.164398193359375</longitude>
+    <datatype>Sporadic</datatype>
+    <valuetype>Sample</valuetype>
+    <samplemedium>Surface Water</samplemedium>
+    <timeunits>day</timeunits>
+    <conceptKeyword>pH</conceptKeyword>
+    <genCategory />
+    <TimeSupport>0</TimeSupport>
+  </SeriesRecord>
+</ArrayOfSeriesRecord>

@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ArrayOfMappedVariable xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://hiscentral.cuahsi.org/20100205/">
+  <MappedVariable>
+    <variableName>Water level</variableName>
+    <variableCode>ML:USU33</variableCode>
+    <servCode>MudLake</servCode>
+    <WSDL>http://icewater.usu.edu/MudLake/cuahsi_1_0.asmx?WSDL</WSDL>
+    <conceptCode>16</conceptCode>
+  </MappedVariable>
+</ArrayOfMappedVariable>

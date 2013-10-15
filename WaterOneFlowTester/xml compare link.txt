@@ -1,0 +1,19 @@
+compare xml files.
+
+http://stackoverflow.com/questions/8096173/how-to-compare-xml-files-in-c
+
+
+http://msdn.microsoft.com/en-us/library/aa302294.aspx
+
+http://www.nerdyhearn.com/blog/141/
+
+
+http://stackoverflow.com/questions/14341490/programmatic-xml-diff-merge-in-c-sharp
+
+
+http://stackoverflow.com/questions/2924350/comparing-xmldocument-for-equality-content-wise
+
+http://stackoverflow.com/questions/4684241/help-with-xmldiffpatch-navigating-xml-doc-by-number-of-nodes
+
+How to reference the diffpath for comparing XML
+http://www.fantabooks.net/lib/O'Reilly%20-%20.NET%20and%20XML/0596003978_netxml-chp-13-sect-1.php

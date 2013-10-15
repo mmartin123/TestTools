@@ -1,0 +1,222 @@
+<tests>
+	<test testID="GetMappedVariables2_Test1">
+		<description>Some details about webmethod</description>
+		<function>GetMappedVariables2</function>
+		<parameters>
+			<param name="conceptids">19</param>
+			<param name="Networkids">1</param>
+		</parameters>
+	</test>
+	<test testID="GetMappedVariables2_Test2">
+		<description>One NetworkID and One ConceptId</description>
+		<function>GetMappedVariables2</function>
+		<parameters>
+			<param name="conceptids">12</param>
+			<param name="Networkids">1</param>
+		</parameters>
+	</test>
+	<test testID="GetMappedVariables2_Test3">
+		<description>One CotnceptIds  Against a Few NetworkID</description>
+		<function>GetMappedVariables2</function>
+		<parameters>
+			<param name="conceptids">12</param>
+			<param name="Networkids">1,2,3,4</param>
+		</parameters>
+	</test>
+	<test testID="GetMappedVariables2_Test4">
+		<description>One NetworkID Against Many CotnceptIds</description>
+		<function>GetMappedVariables2</function>
+		<parameters>
+			<param name="conceptids">16,33,49,51,56,65,67,102</param>
+			<param name="Networkids">12</param>
+		</parameters>
+	</test>
+	<test testID="GetMappedVariables2_Test5">
+		<description>Few ConceptId  Against One NetworkIDs </description>
+		<function>GetMappedVariables2</function>
+		<parameters>
+			<param name="conceptids">9, 10, 12, 13, 16, 19</param>
+			<param name="Networkids">1</param>
+		</parameters>
+	</test>
+	<test testID="GetMappedVariables2_Test6">
+		<description>Few NetworkIDs Against Many ConceptIds</description>
+		<function>GetMappedVariables2</function>
+		<parameters>
+			<param name="conceptids">9, 10, 12, 13, 16, 19</param>
+			<param name="Networkids">1, 2, 3, 4</param>
+		</parameters>
+	</test>
+	<test testID="GetMappedVariables2_Test7">
+		<description>One NetworkIDs Against Few ConceptIds</description>
+		<function>GetMappedVariables2</function>
+		<parameters>
+			<param name="conceptids">16,33,49,51,56,65,67,102</param>
+			<param name="Networkids">12</param>
+		</parameters>
+		</test>
+	<test testID="GetMappedVariables2_Test8">
+		<description>Many NetworkIDs Against One ConceptId</description>
+		<function>GetMappedVariables2</function>
+		<parameters>
+			<param name="conceptids">1</param>
+			<param name="Networkids">9, 10, 12, 13, 16, 19, 30, 33, 35, 36, 49, 51, 55, 56, 65, 67, 78, 90, 94</param>
+		</parameters>
+	</test>
+	<test testID="GetMappedVariables2_Test9">
+		<description>Many NetworkIDs Against Few ConceptIds</description>
+		<function>GetMappedVariables2</function>
+		<parameters>
+			<param name="conceptids">1,2,3,4</param>
+			<param name="Networkids">9, 10, 12, 13, 16, 19, 30, 33, 35, 36, 49, 51, 55, 56, 65, 67, 78, 90, 94</param>
+		</parameters>
+	</test>
+	<test testID="GetMappedVariables2_Test10">
+		<description>Many NetworkIDs Against Many ConceptIds</description>
+		<function>GetMappedVariables2</function>
+		<parameters>
+			<param name="conceptids">1, 2, 3, 4, 5, 8, 12</param>
+			<param name="Networkids">9, 10, 12, 13, 16, 19, 30, 33, 35, 36, 49, 51, 55, 56, 65, 67, 78, 90, 94</param>
+		</parameters>
+	</test>
+	<test testID="GetSeriesCatalogForBox2_Test1">
+		<description>One NetworkID and No ConceptKeyword</description>
+		<function>GetSeriesCatalogForBox2</function>
+		<parameters>
+			<param name="xmin">-80</param>
+			<param name="xmax">-70</param>
+			<param name="ymin">30</param>
+			<param name="ymax">50</param>
+			<param name="conceptKeyword"></param>
+			<param name="networkIDs">5</param>	
+			<param name="beginDate">1958-5-21</param>
+			<param name="endDate">1958-5-26</param>
+		</parameters>
+	</test>
+	<test testID="GetSeriesCatalogForBox2_Test2">
+		<description>One NetworkID and No StartDate</description>
+		<function>GetSeriesCatalogForBox2</function>
+		<parameters>
+			<param name="xmin">-80</param>
+			<param name="xmax">-70</param>
+			<param name="ymin">30</param>
+			<param name="ymax">50</param>
+			<param name="conceptKeyword">pH</param>
+			<param name="networkIDs">5</param>	
+			<param name="beginDate"></param>
+			<param name="endDate">1958-5-26</param>
+		</parameters>
+	</test>
+	<test testID="GetSeriesCatalogForBox2_Test3">
+		<description>One NetworkID and No EndDate</description>
+		<function>GetSeriesCatalogForBox2</function>
+		<parameters>
+			<param name="xmin">-80</param>
+			<param name="xmax">-70</param>
+			<param name="ymin">30</param>
+			<param name="ymax">50</param>
+			<param name="conceptKeyword">pH</param>
+			<param name="networkIDs">5</param>	
+			<param name="beginDate">1958-5-21</param>
+			<param name="endDate"></param>
+		</parameters>
+	</test>
+	<test testID="GetSeriesCatalogForBox2_Test4">
+		<description>Few NetworkIDs and no ConceptKeyword</description>
+		<function>GetSeriesCatalogForBox2</function>
+		<parameters>
+			<param name="xmin">-80</param>
+			<param name="xmax">-70</param>
+			<param name="ymin">30</param>
+			<param name="ymax">50</param>
+			<param name="conceptKeyword"></param>
+			<param name="networkIDs">2,5,8</param>	
+			<param name="beginDate">1958-5-21</param>
+			<param name="endDate">1958-5-26</param>
+		</parameters>
+	</test>
+	<test testID="GetSeriesCatalogForBox2_Test5">
+		<description>Few NetworkIDS And Empty EndDate</description>
+		<function>GetSeriesCatalogForBox2</function>
+		<parameters>
+			<param name="xmin">-80</param>
+			<param name="xmax">-70</param>
+			<param name="ymin">30</param>
+			<param name="ymax">50</param>
+			<param name="conceptKeyword">pH</param>
+			<param name="networkIDs">2,5,8</param>	
+			<param name="beginDate">1958-5-21</param>
+			<param name="endDate"></param>
+		</parameters>
+	</test>
+	<test testID="GetSitesInBox2_Test1">
+		<description>One NetworkId and ConceptKeyword</description>
+		<function>GetSitesInBox2</function>
+		<parameters>
+			<param name="xmin">-80</param>
+			<param name="xmax">-70</param>
+			<param name="ymin">30</param>
+			<param name="ymax">50</param>
+			<param name="conceptKeyword">pH</param>
+			<param name="networkIDs">5</param>
+		</parameters>
+	</test>
+	<test testID="GetSitesInBox2_Test2">
+		<description>Few NetworkIds And ConceptKeyword</description>
+		<function>GetSitesInBox2</function>
+		<parameters>
+			<param name="xmin">-80</param>
+			<param name="xmax">-70</param>
+			<param name="ymin">30</param>
+			<param name="ymax">50</param>
+			<param name="conceptKeyword">pH</param>
+			<param name="networkIDs">5,13,65</param>
+		</parameters>
+	</test>
+	<test testID="GetSitesInBox2_Test3">
+		<description>One NetworkId And No ConceptKeyword</description>
+		<function>GetSitesInBox2</function>
+		<parameters>
+			<param name="xmin">-80</param>
+			<param name="xmax">-70</param>
+			<param name="ymin">30</param>
+			<param name="ymax">50</param>
+			<param name="conceptKeyword"></param>
+			<param name="networkIDs">5</param>
+		</parameters>
+	</test>
+	<test testID="GetSitesInBox2_Test4">
+		<description>One NetworkId And No ConceptKeyword</description>
+		<function>GetSitesInBox2</function>
+		<parameters>
+			<param name="xmin">-80</param>
+			<param name="xmax">-70</param>
+			<param name="ymin">30</param>
+			<param name="ymax">50</param>
+			<param name="conceptKeyword"></param>
+			<param name="networkIDs">5</param>
+		</parameters>
+	</test>
+	<test testID="GetSitesInBox2_Test5">
+		<description>Many NetworkIds And No ConceptKeyword</description>
+		<function>GetSitesInBox2</function>
+		<parameters>
+			<param name="xmin">-80</param>
+			<param name="xmax">-70</param>
+			<param name="ymin">30</param>
+			<param name="ymax">50</param>
+			<param name="conceptKeyword"></param>
+			<param name="networkIDs">5,13,16</param>
+		</parameters>
+	</test>
+	<test testID="GetServicesInBox2_Test1">
+		<description>Valid Values for all 4 coordinates</description>
+		<function>GetServicesInBox2</function>
+		<parameters>
+			<param name="xmin">-80</param>
+			<param name="xmax">-70</param>
+			<param name="ymin">30</param>
+			<param name="ymax">50</param>
+		</parameters>
+	</test>
+</tests>

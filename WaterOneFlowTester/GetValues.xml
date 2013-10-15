@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<timeSeriesResponse xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+   <queryInfo>
+      <creationTime>2013-07-30T02:23:30+00:00</creationTime>
+      <criteria MethodCalled="GetValues">
+         <parameter name="site" value="OGIMET-PERU:846231-99999-SPJJ" />
+         <parameter name="variable" value="OGIMET-PERU:Prec-(mm)" />
+         <parameter name="startDate" value="2001-12-14T00:00:00" />
+         <parameter name="endDate" value="2009-12-13T00:00:00" />
+      </criteria>
+   </queryInfo>
+   <timeSeries>
+      <sourceInfo xsi:type="SiteInfoType">
+         <siteName>JAUJA (PERU)</siteName>
+         <siteCode network="OGIMET-PERU">846231-99999-SPJJ</siteCode>
+         <geoLocation>
+            <geogLocation xsi:type="LatLonPointType">
+               <latitude>-11.7827777777778</latitude>
+               <longitude>-75.4827777777778</longitude>
+            </geogLocation>
+         </geoLocation>
+         <elevation_m>3448</elevation_m>
+      </sourceInfo>
+      <variable>
+         <variableCode vocabulary="OGIMET-PERU" default="true" variableID="4">Prec-(mm)</variableCode>
+         <variableName>Precipitation</variableName>
+         <valueType>Derived Value</valueType>
+         <dataType>Incremental</dataType>
+         <generalCategory>Climate</generalCategory>
+         <sampleMedium>Air</sampleMedium>
+         <unit>
+            <unitName>millimeter</unitName>
+            <unitType>Length</unitType>
+            <unitAbbreviation>mm</unitAbbreviation>
+            <unitCode>54</unitCode>
+         </unit>
+         <noDataValue>-9999</noDataValue>
+         <timeScale isRegular="false">
+            <unit>
+               <unitName>day</unitName>
+               <unitType>Time</unitType>
+               <unitAbbreviation>d</unitAbbreviation>
+               <unitCode>104</unitCode>
+            </unit>
+            <timeSupport>1</timeSupport>
+         </timeScale>
+         <speciation>Not Applicable</speciation>
+      </variable>
+      <values>
+         <value censorCode="nc" dateTime="2001-12-14 00:00:00" timeOffset="0" dateTimeUTC="2001-12-14 00:00:00" methodCode="1" sourceCode="1" qualityControlLevelCode="0">0</value>
+         <value censorCode="nc" dateTime="2001-12-18 00:00:00" timeOffset="0" dateTimeUTC="2001-12-18 00:00:00" methodCode="1" sourceCode="1" qualityControlLevelCode="0">0</value>
+         <value censorCode="nc" dateTime="2001-12-19 00:00:00" timeOffset="0" dateTimeUTC="2001-12-19 00:00:00" methodCode="1" sourceCode="1" qualityControlLevelCode="0">0</value>
+         <value censorCode="nc" dateTime="2001-12-21 00:00:00" timeOffset="0" dateTimeUTC="2001-12-21 00:00:00" methodCode="1" sourceCode="1" qualityControlLevelCode="0">0</value>
+         <value censorCode="nc" dateTime="2001-12-26 00:00:00" timeOffset="0" dateTimeUTC="2001-12-26 00:00:00" methodCode="1" sourceCode="1" qualityControlLevelCode="0">0</value>
+         <value censorCode="nc" dateTime="2001-12-28 00:00:00" timeOffset="0" dateTimeUTC="2001-12-28 00:00:00" methodCode="1" sourceCode="1" qualityControlLevelCode="0">0</value>
+         <value censorCode="nc" dateTime="2002-01-03 00:00:00" timeOffset="0" dateTimeUTC="2002-01-03 00:00:00" methodCode="1" sourceCode="1" qualityControlLevelCode="0">0</value>
+         <value censorCode="nc" dateTime="2002-01-04 00:00:00" timeOffset="0" dateTimeUTC="2002-01-04 00:00:00" methodCode="1" sourceCode="1" qualityControlLevelCode="0">0</value>
+         <value censorCode="nc" dateTime="2002-01-07 00:00:00" timeOffset="0" dateTimeUTC="2002-01-07 00:00:00" methodCode="1" sourceCode="1" qualityControlLevelCode="0">0</value>
+         <value censorCode="nc" dateTime="2002-01-09 00:00:00" timeOffset="0" dateTimeUTC="2002-01-09 00:00:00" methodCode="1" sourceCode="1" qualityControlLevelCode="0">0</value>
+         <value censorCode="nc" dateTime="2009-12-13 00:00:00" timeOffset="0" dateTimeUTC="2009-12-13 00:00:00" methodCode="1" sourceCode="1" qualityControlLevelCode="0">0</value>
+         <qualityControlLevel qualityControlLevelID="0">
+            <qualityControlLevelCode>0</qualityControlLevelCode>
+            <definition>Raw data</definition>
+            <explanation>Raw and unprocessed data and data products that have not undergone quality control.  Depending on the variable, data type, and data transmission system, raw data may be available within seconds or minutes after the measurements have been made. Examples include real time precipitation, streamflow and water quality measurements.</explanation>
+         </qualityControlLevel>
+         <method methodID="1">
+            <methodCode>1</methodCode>
+            <methodDescription>Data downloaded from Ogimet using custom script</methodDescription>
+            <methodLink />
+         </method>
+         <source sourceID="1">
+            <sourceCode>1</sourceCode>
+            <organization>Ogimet</organization>
+            <sourceDescription>Ogimet data source - meteorological data</sourceDescription>
+            <contactInformation>
+               <contactName>Unknown</contactName>
+               <typeOfContact>main</typeOfContact>
+               <email>jiri.kadlec@aalto.fi</email>
+               <phone>050-574-3571</phone>
+               <address xsi:type="xsd:string">Unknown, Unknown, NULL, 15950</address>
+            </contactInformation>
+            <sourceLink>http://www.ogimet.com</sourceLink>
+            <citation />
+         </source>
+         <censorCode>
+            <censorCode>nc</censorCode>
+            <censorCodeDescription>not censored</censorCodeDescription>
+         </censorCode>
+      </values>
+   </timeSeries>
+</timeSeriesResponse>

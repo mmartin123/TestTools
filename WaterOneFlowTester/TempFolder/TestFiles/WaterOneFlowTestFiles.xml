@@ -1,0 +1,72 @@
+<tests>
+<test testID="GetSiteInfo_Test1">
+		<description>Returns the site's metadata.</description>
+		<function>GetSiteInfo</function>
+		<parameters>
+			<param>"LBR:USU-LBR-Mendon"</param>
+			<param>""</param>
+		</parameters>
+	</test>
+<test testID="getSitesXML_Test1">
+		<description>The site metadata for each site number.</description>
+		<function>getSitesXML</function>
+		<parameters>
+			<param name="NetworkName:SiteCode">""</param>
+			<param name="Authentication String">""</param>
+		</parameters>
+	</test>
+<test testID="getValues_Test1">
+		<description>This method returns a time series.</description>
+		<function>getValues</function>
+		<parameters>
+			<param name="NetworkName:SiteCode">LBR:USU-LBR-Mendon</param>
+			<param name="NetworkName:VariableCode ">LBR:USU3</param>
+			<param name="BeginDate">2010-07-20</param>
+			<param name="EndDate">2010-07-21</param>
+		</parameters>
+	</test>
+<test testID="getVariableInfo_Test1">
+		<description>Given a variable code, this method returns the variable's name.</description>
+		<function>getVariableInfo</function>
+		<parameters>
+			<param name="NetworkName:SiteCode">LBR:USU-LBR-Mendon</param>
+			<param name="Authentication String">""</param>
+		</parameters>
+	</test>
+<test testID="getSiteInfoObject_Test1">
+		<description>Given a site number, this method returns the site's metadata.</description>
+		<function>getSiteInfoObject</function>
+		<parameters>
+			<param name="NetworkName:SiteCode">LBR:USU-LBR-Mendon</param>
+			<param name="Authentication String">""</param>
+		</parameters>
+	</test>
+<test testID="getSites_Test1">
+		<description>Given an array of site numbers, this method returns the site metadata for each one</description>
+		<function>getSites</function>
+		<parameters>
+			<param name="NetworkName:SiteCode">""</param>
+			<param name="Authentication String">""</param>
+		</parameters>
+	</test>
+<test testID="getValuesObject_Test1">
+		<description> Given a site number, a variable, a start date, and an end date, this method returns a time series.</description>
+		<function>getValuesObject</function>
+		<parameters>
+			<param name="NetworkName:SiteCode">LBR:USU-LBR-Mendon</param>
+			<param name="NetworkName:VariableCode ">LBR:USU3</param>
+			<param name="BeginDate">2010-07-20</param>
+			<param name="EndDate">2010-07-21</param>
+		</parameters>
+	</test>
+<test testID="getVariableInfoObject_Test1">
+		<description> Given a variable code, this method returns the variable's name. Pass in the variable in this format</description>
+		<function>getVariableInfoObject</function>
+		<parameters>
+			<param name="NetworkName:SiteCode">LBR:USU-LBR-Mendon</param>
+			<param name="Authentication String">""</param>
+		</parameters>
+	</test>
+</tests>
+	
+	

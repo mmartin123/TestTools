@@ -1,0 +1,13 @@
+<site>
+	<siteInfo>
+		<siteName>YLIVIESKA AIRPORT (FINLAND)</siteName>
+		<siteCode network="OGIMET">027550-99999</siteCode>
+		<geoLocation>
+			<geogLocation xsi:type="LatLonPointType">
+				<latitude>64.0327777777778</latitude>
+				<longitude>24.7169444444444</longitude>
+			</geogLocation>
+		</geoLocation>
+		<elevation_m>76</elevation_m>
+	</siteInfo>
+</site>

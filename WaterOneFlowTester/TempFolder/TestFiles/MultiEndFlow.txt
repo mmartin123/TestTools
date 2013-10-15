@@ -1,0 +1,7 @@
+getSites
+
+getVariableInfo -> needs a site
+
+getData needs a site, a variable, and timeInterval
+
+
